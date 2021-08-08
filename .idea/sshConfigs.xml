@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="hz.matpool.com" id="62d168b2-8752-4071-8a90-94070bfee6e7" localPort="28302" port="28302" nameFormat="DESCRIPTIVE" username="root" />
+    </configs>
+  </component>
+</project>

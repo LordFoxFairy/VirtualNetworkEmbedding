@@ -1,0 +1,6007 @@
+This is  virtual network-----0
+0 2250
+1 1750
+2 1750
+3 2250
+4 2000
+5 750
+node-link-information:
+from: 1 to: 0 bw: 1500.0
+from: 3 to: 2 bw: 1500.0
+from: 4 to: 3 bw: 2500.0
+The life time is:--- 100
+This is  virtual network-----1
+6 250
+7 750
+8 1250
+9 2500
+10 2250
+11 2500
+node-link-information:
+from: 8 to: 6 bw: 2000.0
+from: 9 to: 6 bw: 2500.0
+from: 9 to: 7 bw: 1000.0
+from: 10 to: 7 bw: 2500.0
+from: 10 to: 9 bw: 500.0
+from: 11 to: 6 bw: 1500.0
+from: 11 to: 7 bw: 2500.0
+The life time is:--- 250
+This is  virtual network-----2
+12 2000
+13 1000
+14 2000
+15 500
+node-link-information:
+The life time is:--- 400
+This is  virtual network-----3
+16 1000
+17 500
+18 1000
+19 2250
+20 500
+21 2250
+22 1000
+node-link-information:
+from: 19 to: 17 bw: 1500.0
+from: 19 to: 18 bw: 1500.0
+from: 22 to: 16 bw: 1000.0
+The life time is:--- 300
+This is  virtual network-----4
+23 1000
+24 1250
+25 1750
+26 1500
+27 1250
+28 250
+29 750
+node-link-information:
+from: 24 to: 23 bw: 500.0
+from: 25 to: 23 bw: 2000.0
+from: 27 to: 26 bw: 1500.0
+from: 28 to: 25 bw: 2500.0
+from: 29 to: 23 bw: 500.0
+from: 29 to: 25 bw: 1500.0
+The life time is:--- 300
+This is  virtual network-----5
+30 500
+31 1000
+32 1500
+33 1750
+node-link-information:
+from: 31 to: 30 bw: 1000.0
+from: 33 to: 31 bw: 2500.0
+The life time is:--- 250
+This is  virtual network-----6
+34 750
+35 750
+36 500
+37 500
+38 2500
+39 1250
+node-link-information:
+from: 36 to: 35 bw: 2500.0
+from: 39 to: 38 bw: 500.0
+The life time is:--- 100
+This is  virtual network-----7
+40 750
+41 1250
+42 500
+43 1000
+44 1500
+45 250
+node-link-information:
+from: 41 to: 40 bw: 500.0
+from: 43 to: 41 bw: 2500.0
+from: 45 to: 40 bw: 2000.0
+The life time is:--- 200
+This is  virtual network-----8
+46 1750
+47 2500
+48 2000
+49 250
+50 250
+node-link-information:
+The life time is:--- 250
+This is  virtual network-----9
+51 1750
+52 1750
+53 2500
+54 500
+55 750
+node-link-information:
+from: 53 to: 52 bw: 2500.0
+from: 55 to: 51 bw: 2000.0
+The life time is:--- 50
+This is  virtual network-----10
+56 2250
+57 2250
+58 250
+59 500
+60 2250
+61 1750
+node-link-information:
+from: 57 to: 56 bw: 500.0
+from: 59 to: 58 bw: 1500.0
+The life time is:--- 150
+This is  virtual network-----11
+62 2500
+63 1000
+64 1500
+65 250
+node-link-information:
+from: 64 to: 62 bw: 1000.0
+from: 65 to: 64 bw: 2000.0
+The life time is:--- 200
+This is  virtual network-----12
+66 2000
+67 750
+68 1500
+69 750
+70 2250
+71 2250
+72 750
+73 2500
+node-link-information:
+from: 70 to: 68 bw: 1000.0
+from: 73 to: 66 bw: 1000.0
+from: 73 to: 72 bw: 2000.0
+The life time is:--- 300
+This is  virtual network-----13
+74 250
+75 500
+76 500
+77 1000
+node-link-information:
+The life time is:--- 450
+This is  virtual network-----14
+78 2250
+79 2000
+80 2250
+81 2500
+82 500
+83 1000
+84 2500
+node-link-information:
+from: 82 to: 80 bw: 1000.0
+from: 83 to: 81 bw: 2500.0
+from: 84 to: 83 bw: 1000.0
+The life time is:--- 100
+This is  virtual network-----15
+85 250
+86 500
+87 250
+88 500
+89 750
+node-link-information:
+from: 87 to: 85 bw: 1500.0
+from: 88 to: 86 bw: 500.0
+from: 89 to: 85 bw: 500.0
+The life time is:--- 350
+This is  virtual network-----16
+90 500
+91 1000
+92 2500
+93 500
+94 750
+95 2500
+96 2000
+97 1250
+node-link-information:
+from: 92 to: 90 bw: 2500.0
+from: 95 to: 92 bw: 1000.0
+The life time is:--- 200
+This is  virtual network-----17
+98 1500
+99 1000
+100 1500
+101 250
+102 2000
+node-link-information:
+from: 101 to: 99 bw: 2000.0
+from: 102 to: 98 bw: 2000.0
+from: 102 to: 100 bw: 1500.0
+The life time is:--- 100
+This is  virtual network-----18
+103 1500
+104 2500
+105 750
+106 500
+107 1750
+108 1500
+109 1750
+110 2000
+node-link-information:
+from: 107 to: 103 bw: 500.0
+from: 109 to: 104 bw: 500.0
+from: 109 to: 106 bw: 1000.0
+from: 109 to: 108 bw: 2000.0
+The life time is:--- 400
+This is  virtual network-----19
+111 500
+112 250
+113 1500
+114 1000
+115 2000
+116 2250
+node-link-information:
+from: 116 to: 115 bw: 1000.0
+The life time is:--- 250
+This is  virtual network-----20
+117 1750
+118 1250
+119 1250
+120 500
+node-link-information:
+The life time is:--- 150
+This is  virtual network-----21
+121 1250
+122 1500
+123 750
+124 1000
+125 1250
+126 1000
+node-link-information:
+from: 123 to: 121 bw: 2000.0
+from: 125 to: 123 bw: 1000.0
+from: 126 to: 122 bw: 500.0
+The life time is:--- 500
+This is  virtual network-----22
+127 1000
+128 2000
+129 500
+130 750
+131 1500
+node-link-information:
+The life time is:--- 150
+This is  virtual network-----23
+132 1500
+133 500
+134 2000
+135 2500
+136 1750
+137 1500
+138 2250
+139 1500
+node-link-information:
+from: 134 to: 133 bw: 1500.0
+from: 135 to: 133 bw: 500.0
+from: 136 to: 134 bw: 1000.0
+from: 137 to: 132 bw: 2500.0
+from: 137 to: 136 bw: 1000.0
+from: 138 to: 133 bw: 1500.0
+from: 139 to: 137 bw: 2500.0
+from: 139 to: 138 bw: 2000.0
+The life time is:--- 50
+This is  virtual network-----24
+140 1250
+141 1750
+142 750
+143 2500
+144 1250
+145 250
+146 1750
+147 250
+node-link-information:
+from: 143 to: 140 bw: 500.0
+from: 144 to: 142 bw: 1000.0
+from: 145 to: 141 bw: 2000.0
+from: 145 to: 144 bw: 1000.0
+from: 146 to: 144 bw: 2000.0
+The life time is:--- 350
+This is  virtual network-----25
+148 500
+149 1000
+150 1500
+151 750
+152 2500
+153 2250
+node-link-information:
+from: 151 to: 148 bw: 1500.0
+The life time is:--- 200
+This is  virtual network-----26
+154 1750
+155 2000
+156 1250
+157 2500
+158 250
+node-link-information:
+from: 157 to: 154 bw: 2500.0
+from: 158 to: 154 bw: 1500.0
+The life time is:--- 50
+This is  virtual network-----27
+159 1500
+160 2500
+161 500
+162 750
+163 750
+164 1500
+165 1250
+node-link-information:
+from: 164 to: 160 bw: 500.0
+from: 164 to: 163 bw: 1000.0
+The life time is:--- 250
+This is  virtual network-----28
+166 250
+167 500
+168 750
+169 500
+170 1750
+node-link-information:
+from: 167 to: 166 bw: 2500.0
+from: 170 to: 167 bw: 2000.0
+The life time is:--- 500
+This is  virtual network-----29
+171 250
+172 1750
+173 1000
+174 2250
+175 2250
+node-link-information:
+from: 175 to: 172 bw: 1500.0
+The life time is:--- 200
+This is  virtual network-----30
+176 1000
+177 250
+178 750
+179 2500
+180 1000
+181 750
+node-link-information:
+from: 178 to: 176 bw: 1500.0
+from: 178 to: 177 bw: 1000.0
+from: 179 to: 178 bw: 500.0
+from: 180 to: 179 bw: 2500.0
+from: 181 to: 179 bw: 500.0
+The life time is:--- 200
+This is  virtual network-----31
+182 500
+183 500
+184 250
+185 750
+186 1750
+node-link-information:
+from: 185 to: 182 bw: 2500.0
+from: 185 to: 184 bw: 1000.0
+from: 186 to: 183 bw: 2500.0
+The life time is:--- 500
+This is  virtual network-----32
+187 2250
+188 1250
+189 2250
+190 500
+node-link-information:
+from: 188 to: 187 bw: 2500.0
+from: 190 to: 187 bw: 1000.0
+The life time is:--- 250
+This is  virtual network-----33
+191 2500
+192 250
+193 1500
+194 1250
+195 1000
+196 2000
+node-link-information:
+from: 192 to: 191 bw: 2000.0
+from: 193 to: 191 bw: 2000.0
+from: 194 to: 191 bw: 500.0
+from: 196 to: 191 bw: 2500.0
+from: 196 to: 194 bw: 500.0
+The life time is:--- 400
+This is  virtual network-----34
+197 2250
+198 1750
+199 2250
+200 2250
+201 750
+202 1000
+203 1750
+204 750
+node-link-information:
+from: 201 to: 197 bw: 2000.0
+from: 202 to: 197 bw: 500.0
+from: 202 to: 198 bw: 2500.0
+from: 203 to: 199 bw: 1000.0
+from: 204 to: 197 bw: 1500.0
+The life time is:--- 250
+This is  virtual network-----35
+205 2250
+206 1250
+207 2250
+208 1750
+node-link-information:
+from: 207 to: 206 bw: 1500.0
+from: 208 to: 205 bw: 1500.0
+The life time is:--- 350
+This is  virtual network-----36
+209 250
+210 2250
+211 500
+212 500
+node-link-information:
+The life time is:--- 350
+This is  virtual network-----37
+213 1750
+214 500
+215 1250
+216 1000
+node-link-information:
+from: 216 to: 213 bw: 500.0
+The life time is:--- 400
+This is  virtual network-----38
+217 1000
+218 1250
+219 2250
+220 250
+221 750
+node-link-information:
+The life time is:--- 500
+This is  virtual network-----39
+222 2250
+223 500
+224 250
+225 1500
+226 2250
+227 250
+228 1500
+node-link-information:
+from: 226 to: 223 bw: 2500.0
+from: 227 to: 222 bw: 2500.0
+from: 227 to: 224 bw: 2500.0
+from: 228 to: 225 bw: 2000.0
+The life time is:--- 400
+This is  virtual network-----40
+229 1000
+230 500
+231 750
+232 250
+node-link-information:
+The life time is:--- 400
+This is  virtual network-----41
+233 750
+234 1750
+235 250
+236 2000
+node-link-information:
+from: 234 to: 233 bw: 500.0
+from: 235 to: 233 bw: 2000.0
+from: 235 to: 234 bw: 1000.0
+from: 236 to: 233 bw: 500.0
+The life time is:--- 300
+This is  virtual network-----42
+237 2500
+238 1750
+239 1000
+240 1250
+241 500
+node-link-information:
+from: 241 to: 239 bw: 2500.0
+The life time is:--- 150
+This is  virtual network-----43
+242 1000
+243 500
+244 2250
+245 250
+246 500
+247 1000
+248 750
+249 1250
+node-link-information:
+from: 244 to: 243 bw: 500.0
+from: 245 to: 244 bw: 2000.0
+from: 246 to: 242 bw: 500.0
+from: 246 to: 243 bw: 2500.0
+from: 247 to: 245 bw: 500.0
+from: 248 to: 246 bw: 2000.0
+from: 249 to: 244 bw: 2000.0
+from: 249 to: 246 bw: 2000.0
+from: 249 to: 248 bw: 2500.0
+The life time is:--- 100
+This is  virtual network-----44
+250 1500
+251 1250
+252 2500
+253 2500
+254 2500
+255 500
+256 1750
+node-link-information:
+from: 251 to: 250 bw: 2000.0
+from: 254 to: 250 bw: 500.0
+from: 255 to: 251 bw: 1000.0
+from: 255 to: 252 bw: 1500.0
+from: 255 to: 254 bw: 2000.0
+from: 256 to: 251 bw: 2000.0
+from: 256 to: 253 bw: 2500.0
+The life time is:--- 200
+This is  virtual network-----45
+257 2500
+258 1250
+259 2500
+260 1500
+261 1750
+262 1750
+263 2250
+264 2250
+node-link-information:
+from: 262 to: 259 bw: 1500.0
+from: 264 to: 263 bw: 500.0
+The life time is:--- 200
+This is  virtual network-----46
+265 2500
+266 1500
+267 2000
+268 750
+node-link-information:
+from: 266 to: 265 bw: 1000.0
+from: 267 to: 265 bw: 2500.0
+from: 267 to: 266 bw: 1500.0
+The life time is:--- 500
+This is  virtual network-----47
+269 500
+270 2500
+271 1000
+272 750
+node-link-information:
+from: 271 to: 269 bw: 500.0
+from: 271 to: 270 bw: 500.0
+from: 272 to: 270 bw: 1000.0
+The life time is:--- 450
+This is  virtual network-----48
+273 750
+274 2500
+275 750
+276 1750
+277 1250
+278 2250
+node-link-information:
+from: 278 to: 275 bw: 1000.0
+The life time is:--- 200
+This is  virtual network-----49
+279 2250
+280 2500
+281 750
+282 1000
+283 750
+node-link-information:
+from: 281 to: 279 bw: 2500.0
+from: 282 to: 279 bw: 1000.0
+The life time is:--- 450
+This is  virtual network-----50
+284 1750
+285 1750
+286 1500
+287 1000
+node-link-information:
+from: 287 to: 284 bw: 500.0
+The life time is:--- 150
+This is  virtual network-----51
+288 2000
+289 1500
+290 1000
+291 250
+292 2000
+293 2250
+294 2000
+node-link-information:
+from: 289 to: 288 bw: 500.0
+from: 292 to: 288 bw: 1500.0
+from: 292 to: 289 bw: 500.0
+from: 293 to: 290 bw: 500.0
+from: 294 to: 290 bw: 1500.0
+The life time is:--- 250
+This is  virtual network-----52
+295 500
+296 2000
+297 500
+298 1500
+299 1000
+node-link-information:
+from: 297 to: 296 bw: 1000.0
+from: 298 to: 296 bw: 1500.0
+The life time is:--- 250
+This is  virtual network-----53
+300 1250
+301 2250
+302 2250
+303 1000
+304 250
+node-link-information:
+from: 302 to: 301 bw: 1500.0
+from: 304 to: 303 bw: 2000.0
+The life time is:--- 50
+This is  virtual network-----54
+305 250
+306 2000
+307 250
+308 250
+309 250
+310 2250
+311 250
+312 1000
+node-link-information:
+from: 307 to: 305 bw: 1000.0
+from: 310 to: 305 bw: 500.0
+The life time is:--- 450
+This is  virtual network-----55
+313 2000
+314 1250
+315 500
+316 500
+317 1000
+318 1500
+319 1500
+320 1750
+node-link-information:
+from: 316 to: 314 bw: 1500.0
+from: 317 to: 313 bw: 2500.0
+from: 317 to: 314 bw: 1500.0
+from: 319 to: 315 bw: 500.0
+from: 320 to: 314 bw: 500.0
+from: 320 to: 319 bw: 2500.0
+The life time is:--- 300
+This is  virtual network-----56
+321 1250
+322 1750
+323 250
+324 2500
+node-link-information:
+from: 323 to: 322 bw: 500.0
+from: 324 to: 322 bw: 2000.0
+The life time is:--- 250
+This is  virtual network-----57
+325 1500
+326 1000
+327 750
+328 250
+329 1250
+node-link-information:
+from: 327 to: 326 bw: 2500.0
+from: 328 to: 327 bw: 2500.0
+The life time is:--- 400
+This is  virtual network-----58
+330 1500
+331 250
+332 750
+333 750
+334 1000
+node-link-information:
+from: 332 to: 330 bw: 1000.0
+from: 333 to: 331 bw: 500.0
+from: 334 to: 330 bw: 2000.0
+The life time is:--- 150
+This is  virtual network-----59
+335 750
+336 1500
+337 2500
+338 2250
+node-link-information:
+The life time is:--- 250
+This is  virtual network-----60
+339 2500
+340 1500
+341 1500
+342 750
+343 250
+344 2250
+345 750
+node-link-information:
+from: 343 to: 339 bw: 2000.0
+from: 344 to: 340 bw: 2000.0
+The life time is:--- 50
+This is  virtual network-----61
+346 500
+347 2000
+348 2000
+349 2500
+350 1000
+351 750
+352 1000
+353 1500
+node-link-information:
+from: 350 to: 347 bw: 1000.0
+from: 351 to: 346 bw: 500.0
+from: 351 to: 347 bw: 2500.0
+from: 351 to: 350 bw: 500.0
+from: 353 to: 352 bw: 2500.0
+The life time is:--- 400
+This is  virtual network-----62
+354 500
+355 1750
+356 1750
+357 1500
+358 1000
+node-link-information:
+from: 356 to: 354 bw: 500.0
+from: 357 to: 354 bw: 1000.0
+from: 357 to: 356 bw: 1000.0
+The life time is:--- 200
+This is  virtual network-----63
+359 2250
+360 1250
+361 2500
+362 2250
+node-link-information:
+from: 361 to: 359 bw: 1000.0
+from: 362 to: 359 bw: 1000.0
+from: 362 to: 360 bw: 2500.0
+The life time is:--- 500
+This is  virtual network-----64
+363 1500
+364 500
+365 2500
+366 2000
+367 1000
+368 500
+369 750
+370 500
+node-link-information:
+from: 366 to: 363 bw: 2000.0
+from: 369 to: 363 bw: 1000.0
+from: 370 to: 363 bw: 500.0
+from: 370 to: 366 bw: 1000.0
+The life time is:--- 500
+This is  virtual network-----65
+371 2250
+372 1250
+373 1000
+374 500
+node-link-information:
+from: 372 to: 371 bw: 2500.0
+The life time is:--- 300
+This is  virtual network-----66
+375 2250
+376 2500
+377 1250
+378 750
+379 1250
+380 2500
+381 2250
+382 1000
+node-link-information:
+from: 378 to: 376 bw: 2500.0
+from: 381 to: 378 bw: 1000.0
+from: 382 to: 378 bw: 1500.0
+The life time is:--- 250
+This is  virtual network-----67
+383 2250
+384 2000
+385 250
+386 1500
+387 750
+388 2500
+389 1750
+node-link-information:
+from: 384 to: 383 bw: 1000.0
+from: 386 to: 383 bw: 1500.0
+from: 388 to: 385 bw: 1500.0
+from: 388 to: 386 bw: 1000.0
+from: 389 to: 385 bw: 1500.0
+The life time is:--- 500
+This is  virtual network-----68
+390 2250
+391 1500
+392 2000
+393 2500
+node-link-information:
+The life time is:--- 500
+This is  virtual network-----69
+394 1750
+395 1000
+396 500
+397 1500
+398 2250
+399 2500
+400 2250
+401 250
+node-link-information:
+from: 397 to: 394 bw: 1000.0
+from: 399 to: 397 bw: 2500.0
+from: 400 to: 398 bw: 2000.0
+from: 401 to: 396 bw: 500.0
+from: 401 to: 400 bw: 1500.0
+The life time is:--- 450
+This is  virtual network-----70
+402 1000
+403 1500
+404 1250
+405 1500
+406 2500
+407 1250
+node-link-information:
+from: 403 to: 402 bw: 1500.0
+from: 405 to: 403 bw: 1000.0
+from: 407 to: 402 bw: 500.0
+from: 407 to: 405 bw: 500.0
+The life time is:--- 350
+This is  virtual network-----71
+408 2000
+409 1500
+410 250
+411 750
+412 2000
+413 1250
+414 1250
+node-link-information:
+from: 412 to: 409 bw: 2500.0
+from: 412 to: 411 bw: 500.0
+from: 413 to: 410 bw: 2500.0
+from: 414 to: 409 bw: 2500.0
+from: 414 to: 410 bw: 1500.0
+from: 414 to: 411 bw: 500.0
+The life time is:--- 350
+This is  virtual network-----72
+415 250
+416 2250
+417 250
+418 250
+419 1000
+node-link-information:
+from: 416 to: 415 bw: 2000.0
+from: 417 to: 416 bw: 2500.0
+from: 418 to: 415 bw: 500.0
+from: 419 to: 418 bw: 2000.0
+The life time is:--- 500
+This is  virtual network-----73
+420 1500
+421 2250
+422 1000
+423 250
+424 1000
+node-link-information:
+from: 423 to: 420 bw: 500.0
+from: 423 to: 422 bw: 500.0
+from: 424 to: 420 bw: 500.0
+from: 424 to: 423 bw: 2500.0
+The life time is:--- 350
+This is  virtual network-----74
+425 2500
+426 2000
+427 1000
+428 1250
+node-link-information:
+The life time is:--- 100
+This is  virtual network-----75
+429 2500
+430 1000
+431 1250
+432 1750
+node-link-information:
+The life time is:--- 50
+This is  virtual network-----76
+433 2500
+434 2000
+435 1250
+436 1000
+437 500
+438 2250
+node-link-information:
+from: 438 to: 435 bw: 2500.0
+from: 438 to: 437 bw: 1000.0
+The life time is:--- 150
+This is  virtual network-----77
+439 2500
+440 750
+441 2250
+442 1500
+443 1000
+444 1500
+445 1250
+446 2250
+node-link-information:
+from: 441 to: 440 bw: 1500.0
+from: 442 to: 439 bw: 500.0
+from: 443 to: 439 bw: 2500.0
+from: 443 to: 440 bw: 2500.0
+from: 444 to: 439 bw: 1000.0
+from: 444 to: 443 bw: 1000.0
+from: 445 to: 442 bw: 2000.0
+from: 445 to: 443 bw: 2000.0
+from: 446 to: 441 bw: 500.0
+from: 446 to: 444 bw: 2000.0
+The life time is:--- 300
+This is  virtual network-----78
+447 1000
+448 250
+449 750
+450 2500
+451 250
+452 1750
+453 2250
+454 1250
+node-link-information:
+from: 448 to: 447 bw: 1500.0
+from: 450 to: 447 bw: 2500.0
+from: 452 to: 447 bw: 500.0
+from: 452 to: 451 bw: 2000.0
+from: 453 to: 448 bw: 500.0
+from: 454 to: 447 bw: 2500.0
+from: 454 to: 450 bw: 2000.0
+The life time is:--- 150
+This is  virtual network-----79
+455 2250
+456 500
+457 1250
+458 750
+node-link-information:
+from: 457 to: 456 bw: 2500.0
+from: 458 to: 455 bw: 500.0
+The life time is:--- 450
+This is  virtual network-----80
+459 1500
+460 1500
+461 750
+462 1750
+463 500
+464 1500
+465 500
+node-link-information:
+from: 461 to: 460 bw: 2000.0
+from: 463 to: 462 bw: 1000.0
+from: 464 to: 461 bw: 1000.0
+from: 465 to: 464 bw: 1000.0
+The life time is:--- 50
+This is  virtual network-----81
+466 2250
+467 500
+468 2000
+469 250
+470 1500
+471 1250
+472 1750
+node-link-information:
+from: 469 to: 467 bw: 500.0
+from: 470 to: 467 bw: 2500.0
+from: 470 to: 468 bw: 500.0
+from: 470 to: 469 bw: 1500.0
+from: 471 to: 468 bw: 1500.0
+from: 472 to: 468 bw: 2500.0
+The life time is:--- 350
+This is  virtual network-----82
+473 250
+474 500
+475 2500
+476 1000
+node-link-information:
+from: 475 to: 474 bw: 1000.0
+The life time is:--- 450
+This is  virtual network-----83
+477 500
+478 2250
+479 1000
+480 2250
+node-link-information:
+from: 478 to: 477 bw: 2000.0
+from: 479 to: 477 bw: 2000.0
+from: 479 to: 478 bw: 2500.0
+from: 480 to: 477 bw: 1500.0
+The life time is:--- 100
+This is  virtual network-----84
+481 1000
+482 1250
+483 1500
+484 1250
+485 750
+486 1500
+487 2000
+488 2500
+node-link-information:
+from: 484 to: 483 bw: 1000.0
+from: 485 to: 482 bw: 2500.0
+from: 488 to: 482 bw: 500.0
+from: 488 to: 485 bw: 1000.0
+The life time is:--- 150
+This is  virtual network-----85
+489 2250
+490 500
+491 750
+492 1000
+node-link-information:
+from: 492 to: 489 bw: 2500.0
+from: 492 to: 490 bw: 500.0
+The life time is:--- 400
+This is  virtual network-----86
+493 2000
+494 1500
+495 2250
+496 2250
+497 1750
+node-link-information:
+from: 495 to: 494 bw: 1000.0
+from: 496 to: 494 bw: 500.0
+from: 497 to: 495 bw: 500.0
+from: 497 to: 496 bw: 2000.0
+The life time is:--- 500
+This is  virtual network-----87
+498 1750
+499 500
+500 1500
+501 2500
+502 1500
+503 2500
+504 1750
+505 750
+node-link-information:
+from: 502 to: 499 bw: 1500.0
+from: 502 to: 500 bw: 1000.0
+from: 502 to: 501 bw: 1000.0
+from: 503 to: 501 bw: 2000.0
+from: 504 to: 501 bw: 1500.0
+from: 505 to: 502 bw: 2000.0
+The life time is:--- 150
+This is  virtual network-----88
+506 250
+507 1000
+508 1000
+509 2000
+510 250
+511 500
+512 500
+513 2000
+node-link-information:
+from: 508 to: 507 bw: 1500.0
+from: 511 to: 508 bw: 1500.0
+from: 512 to: 507 bw: 1000.0
+from: 512 to: 510 bw: 2500.0
+The life time is:--- 100
+This is  virtual network-----89
+514 2000
+515 2500
+516 2500
+517 1000
+518 1250
+519 1000
+520 2500
+521 1250
+node-link-information:
+from: 521 to: 514 bw: 1500.0
+The life time is:--- 500
+This is  virtual network-----90
+522 1000
+523 750
+524 750
+525 250
+526 1000
+527 750
+node-link-information:
+from: 523 to: 522 bw: 2000.0
+from: 524 to: 522 bw: 1000.0
+from: 524 to: 523 bw: 2500.0
+from: 525 to: 522 bw: 2500.0
+from: 526 to: 524 bw: 500.0
+The life time is:--- 400
+This is  virtual network-----91
+528 1000
+529 2000
+530 500
+531 2000
+532 1000
+533 1500
+534 1000
+node-link-information:
+from: 531 to: 530 bw: 1000.0
+from: 532 to: 529 bw: 1500.0
+from: 532 to: 531 bw: 1500.0
+from: 534 to: 528 bw: 2500.0
+The life time is:--- 100
+This is  virtual network-----92
+535 1750
+536 750
+537 2000
+538 2250
+539 2000
+540 2000
+541 1250
+542 750
+node-link-information:
+from: 536 to: 535 bw: 2500.0
+from: 539 to: 535 bw: 2000.0
+from: 541 to: 540 bw: 2000.0
+from: 542 to: 538 bw: 2000.0
+from: 542 to: 540 bw: 2500.0
+The life time is:--- 350
+This is  virtual network-----93
+543 1500
+544 2500
+545 1500
+546 1750
+547 750
+548 2500
+549 1250
+node-link-information:
+from: 548 to: 544 bw: 1000.0
+from: 549 to: 548 bw: 2000.0
+The life time is:--- 50
+This is  virtual network-----94
+550 1250
+551 2000
+552 1500
+553 2000
+554 2500
+node-link-information:
+from: 551 to: 550 bw: 1500.0
+from: 552 to: 550 bw: 2500.0
+from: 553 to: 552 bw: 500.0
+from: 554 to: 552 bw: 2500.0
+The life time is:--- 400
+This is  virtual network-----95
+555 2000
+556 1500
+557 2250
+558 2000
+559 2250
+560 2000
+561 2000
+562 1000
+node-link-information:
+from: 557 to: 555 bw: 1500.0
+from: 558 to: 555 bw: 1500.0
+from: 559 to: 556 bw: 2000.0
+from: 559 to: 558 bw: 2500.0
+from: 560 to: 555 bw: 1000.0
+from: 561 to: 555 bw: 1500.0
+from: 562 to: 555 bw: 1500.0
+from: 562 to: 559 bw: 2500.0
+The life time is:--- 50
+This is  virtual network-----96
+563 2000
+564 1500
+565 1500
+566 1500
+567 1250
+568 1000
+node-link-information:
+from: 567 to: 564 bw: 500.0
+The life time is:--- 200
+This is  virtual network-----97
+569 1750
+570 2250
+571 1750
+572 1000
+node-link-information:
+The life time is:--- 200
+This is  virtual network-----98
+573 1750
+574 1250
+575 2000
+576 2500
+577 500
+578 750
+579 750
+node-link-information:
+from: 574 to: 573 bw: 1000.0
+from: 577 to: 575 bw: 1500.0
+from: 577 to: 576 bw: 500.0
+from: 579 to: 577 bw: 2000.0
+The life time is:--- 500
+This is  virtual network-----99
+580 2000
+581 1250
+582 1000
+583 2500
+584 2250
+585 2250
+586 2500
+587 750
+node-link-information:
+from: 585 to: 583 bw: 1500.0
+from: 586 to: 582 bw: 1500.0
+The life time is:--- 250
+This is  virtual network-----100
+588 2250
+589 750
+590 1250
+591 2000
+592 2000
+593 1500
+594 250
+node-link-information:
+from: 592 to: 589 bw: 1500.0
+from: 593 to: 591 bw: 1500.0
+from: 593 to: 592 bw: 500.0
+from: 594 to: 590 bw: 2000.0
+from: 594 to: 592 bw: 2000.0
+The life time is:--- 450
+This is  virtual network-----101
+595 1750
+596 2000
+597 500
+598 1000
+node-link-information:
+The life time is:--- 500
+This is  virtual network-----102
+599 500
+600 750
+601 250
+602 750
+603 750
+604 2250
+node-link-information:
+from: 600 to: 599 bw: 1000.0
+from: 602 to: 601 bw: 1000.0
+from: 603 to: 599 bw: 500.0
+The life time is:--- 500
+This is  virtual network-----103
+605 750
+606 1250
+607 750
+608 750
+609 1000
+610 2000
+611 500
+node-link-information:
+from: 609 to: 608 bw: 1500.0
+The life time is:--- 50
+This is  virtual network-----104
+612 250
+613 1500
+614 250
+615 500
+616 2000
+617 1250
+node-link-information:
+from: 616 to: 613 bw: 2000.0
+from: 616 to: 615 bw: 2000.0
+from: 617 to: 612 bw: 2500.0
+from: 617 to: 615 bw: 2500.0
+The life time is:--- 200
+This is  virtual network-----105
+618 1250
+619 1000
+620 2000
+621 500
+622 750
+node-link-information:
+from: 619 to: 618 bw: 2500.0
+from: 621 to: 618 bw: 1500.0
+from: 622 to: 619 bw: 1500.0
+from: 622 to: 620 bw: 1000.0
+The life time is:--- 500
+This is  virtual network-----106
+623 2000
+624 2500
+625 2250
+626 750
+627 2500
+628 500
+node-link-information:
+from: 626 to: 625 bw: 1500.0
+from: 627 to: 624 bw: 1000.0
+from: 627 to: 626 bw: 1500.0
+from: 628 to: 623 bw: 1500.0
+from: 628 to: 625 bw: 2000.0
+The life time is:--- 100
+This is  virtual network-----107
+629 2250
+630 1000
+631 1000
+632 750
+633 2000
+634 1000
+635 2250
+node-link-information:
+from: 633 to: 629 bw: 2000.0
+from: 634 to: 630 bw: 500.0
+The life time is:--- 100
+This is  virtual network-----108
+636 250
+637 2500
+638 2250
+639 1750
+640 250
+641 1250
+node-link-information:
+from: 639 to: 637 bw: 2500.0
+from: 639 to: 638 bw: 2000.0
+from: 640 to: 637 bw: 1000.0
+from: 640 to: 638 bw: 2500.0
+from: 641 to: 638 bw: 2500.0
+The life time is:--- 450
+This is  virtual network-----109
+642 1500
+643 1500
+644 1500
+645 1000
+646 2000
+node-link-information:
+from: 644 to: 643 bw: 2000.0
+The life time is:--- 300
+This is  virtual network-----110
+647 2000
+648 2250
+649 1250
+650 1500
+651 2500
+node-link-information:
+from: 651 to: 650 bw: 2000.0
+The life time is:--- 200
+This is  virtual network-----111
+652 2000
+653 500
+654 1250
+655 750
+656 2250
+657 750
+node-link-information:
+from: 655 to: 652 bw: 1000.0
+The life time is:--- 200
+This is  virtual network-----112
+658 2250
+659 1250
+660 1750
+661 1750
+662 1000
+node-link-information:
+from: 662 to: 660 bw: 2000.0
+The life time is:--- 400
+This is  virtual network-----113
+663 500
+664 250
+665 500
+666 1250
+667 500
+668 250
+669 250
+node-link-information:
+from: 666 to: 664 bw: 2500.0
+from: 667 to: 666 bw: 1500.0
+from: 668 to: 665 bw: 2500.0
+from: 669 to: 665 bw: 1000.0
+from: 669 to: 666 bw: 1000.0
+from: 669 to: 667 bw: 2500.0
+The life time is:--- 50
+This is  virtual network-----114
+670 1750
+671 1750
+672 250
+673 750
+674 250
+node-link-information:
+from: 672 to: 670 bw: 1500.0
+from: 672 to: 671 bw: 2500.0
+from: 674 to: 670 bw: 500.0
+from: 674 to: 671 bw: 1500.0
+from: 674 to: 672 bw: 500.0
+The life time is:--- 350
+This is  virtual network-----115
+675 1750
+676 1250
+677 750
+678 2250
+node-link-information:
+from: 678 to: 677 bw: 1500.0
+The life time is:--- 450
+This is  virtual network-----116
+679 2500
+680 1250
+681 1250
+682 2250
+683 750
+684 1250
+node-link-information:
+from: 681 to: 679 bw: 500.0
+from: 682 to: 681 bw: 2500.0
+from: 683 to: 681 bw: 2500.0
+from: 684 to: 681 bw: 2500.0
+from: 684 to: 683 bw: 1000.0
+The life time is:--- 100
+This is  virtual network-----117
+685 1250
+686 500
+687 1000
+688 750
+689 1750
+690 1500
+node-link-information:
+from: 687 to: 686 bw: 1000.0
+from: 688 to: 687 bw: 1500.0
+from: 690 to: 686 bw: 2000.0
+from: 690 to: 688 bw: 2000.0
+The life time is:--- 450
+This is  virtual network-----118
+691 1000
+692 500
+693 1250
+694 1000
+695 2500
+696 500
+697 2250
+698 500
+node-link-information:
+from: 695 to: 692 bw: 2000.0
+from: 696 to: 691 bw: 2500.0
+from: 696 to: 692 bw: 500.0
+from: 696 to: 693 bw: 2500.0
+from: 697 to: 695 bw: 2500.0
+from: 698 to: 695 bw: 2000.0
+The life time is:--- 250
+This is  virtual network-----119
+699 2000
+700 1500
+701 1750
+702 250
+703 2000
+node-link-information:
+The life time is:--- 250
+This is  virtual network-----120
+704 500
+705 1000
+706 750
+707 1250
+node-link-information:
+The life time is:--- 500
+This is  virtual network-----121
+708 500
+709 2500
+710 2000
+711 2250
+712 1000
+713 250
+714 750
+node-link-information:
+from: 711 to: 710 bw: 2500.0
+from: 712 to: 708 bw: 1500.0
+from: 712 to: 711 bw: 2500.0
+from: 713 to: 709 bw: 1000.0
+from: 713 to: 711 bw: 1500.0
+from: 713 to: 712 bw: 2000.0
+from: 714 to: 709 bw: 1000.0
+from: 714 to: 710 bw: 500.0
+The life time is:--- 250
+This is  virtual network-----122
+715 500
+716 1500
+717 2000
+718 1000
+719 2000
+node-link-information:
+from: 717 to: 715 bw: 500.0
+from: 719 to: 716 bw: 1000.0
+The life time is:--- 50
+This is  virtual network-----123
+720 1000
+721 2500
+722 500
+723 1250
+724 2000
+725 250
+node-link-information:
+from: 722 to: 720 bw: 1500.0
+from: 723 to: 721 bw: 1500.0
+from: 724 to: 720 bw: 1500.0
+from: 724 to: 723 bw: 500.0
+from: 725 to: 721 bw: 1000.0
+from: 725 to: 724 bw: 1500.0
+The life time is:--- 50
+This is  virtual network-----124
+726 250
+727 1000
+728 2000
+729 1000
+730 250
+node-link-information:
+from: 727 to: 726 bw: 500.0
+The life time is:--- 450
+This is  virtual network-----125
+731 1000
+732 2500
+733 2500
+734 250
+735 500
+736 1000
+node-link-information:
+from: 732 to: 731 bw: 500.0
+from: 735 to: 731 bw: 2000.0
+from: 735 to: 734 bw: 2500.0
+from: 736 to: 732 bw: 1000.0
+from: 736 to: 735 bw: 1500.0
+The life time is:--- 250
+This is  virtual network-----126
+737 1000
+738 1750
+739 1500
+740 1250
+741 2000
+node-link-information:
+from: 740 to: 737 bw: 2500.0
+The life time is:--- 50
+This is  virtual network-----127
+742 1750
+743 250
+744 2000
+745 2500
+node-link-information:
+from: 744 to: 743 bw: 1500.0
+from: 745 to: 742 bw: 1500.0
+The life time is:--- 200
+This is  virtual network-----128
+746 2250
+747 2250
+748 750
+749 1500
+750 250
+751 1750
+752 250
+node-link-information:
+from: 747 to: 746 bw: 1500.0
+from: 749 to: 746 bw: 1000.0
+from: 750 to: 746 bw: 1500.0
+from: 750 to: 748 bw: 1500.0
+from: 751 to: 747 bw: 1000.0
+from: 752 to: 747 bw: 1500.0
+from: 752 to: 750 bw: 1000.0
+The life time is:--- 400
+This is  virtual network-----129
+753 250
+754 2000
+755 500
+756 1750
+757 2250
+758 2000
+node-link-information:
+from: 758 to: 754 bw: 500.0
+The life time is:--- 200
+This is  virtual network-----130
+759 250
+760 2500
+761 250
+762 2500
+763 1000
+764 500
+node-link-information:
+from: 760 to: 759 bw: 1500.0
+from: 762 to: 760 bw: 500.0
+from: 763 to: 761 bw: 2500.0
+The life time is:--- 100
+This is  virtual network-----131
+765 250
+766 2000
+767 1000
+768 1750
+769 1750
+770 2000
+771 2250
+772 2250
+node-link-information:
+from: 768 to: 767 bw: 2500.0
+from: 770 to: 765 bw: 2000.0
+from: 770 to: 766 bw: 1000.0
+from: 772 to: 768 bw: 1500.0
+from: 772 to: 771 bw: 2500.0
+The life time is:--- 400
+This is  virtual network-----132
+773 1000
+774 750
+775 1750
+776 2500
+777 1500
+778 1750
+779 500
+780 250
+node-link-information:
+from: 776 to: 774 bw: 1500.0
+from: 776 to: 775 bw: 500.0
+from: 777 to: 774 bw: 2000.0
+from: 779 to: 773 bw: 1000.0
+from: 779 to: 775 bw: 500.0
+from: 779 to: 777 bw: 2500.0
+from: 780 to: 774 bw: 1500.0
+The life time is:--- 150
+This is  virtual network-----133
+781 1000
+782 2250
+783 2500
+784 1500
+node-link-information:
+from: 782 to: 781 bw: 1500.0
+The life time is:--- 450
+This is  virtual network-----134
+785 1000
+786 1250
+787 2250
+788 1250
+789 250
+790 2500
+791 500
+node-link-information:
+from: 787 to: 786 bw: 1500.0
+from: 789 to: 786 bw: 2000.0
+from: 789 to: 787 bw: 1000.0
+from: 790 to: 787 bw: 2500.0
+The life time is:--- 100
+This is  virtual network-----135
+792 500
+793 250
+794 1500
+795 500
+796 2000
+797 1500
+798 250
+799 250
+node-link-information:
+from: 796 to: 794 bw: 2500.0
+from: 798 to: 792 bw: 2500.0
+from: 798 to: 793 bw: 2500.0
+from: 798 to: 794 bw: 2500.0
+from: 799 to: 792 bw: 2000.0
+from: 799 to: 795 bw: 2000.0
+The life time is:--- 200
+This is  virtual network-----136
+800 2250
+801 2500
+802 2000
+803 1250
+804 250
+805 1000
+node-link-information:
+from: 801 to: 800 bw: 500.0
+from: 803 to: 801 bw: 2000.0
+from: 804 to: 802 bw: 500.0
+The life time is:--- 250
+This is  virtual network-----137
+806 2250
+807 250
+808 250
+809 1750
+810 2000
+811 1750
+node-link-information:
+from: 807 to: 806 bw: 500.0
+from: 811 to: 808 bw: 1000.0
+The life time is:--- 150
+This is  virtual network-----138
+812 1500
+813 500
+814 750
+815 1500
+816 2250
+817 2500
+node-link-information:
+from: 816 to: 814 bw: 1500.0
+from: 817 to: 812 bw: 1500.0
+The life time is:--- 300
+This is  virtual network-----139
+818 750
+819 2500
+820 250
+821 2250
+822 500
+823 750
+824 750
+node-link-information:
+from: 821 to: 818 bw: 2500.0
+from: 821 to: 820 bw: 2500.0
+The life time is:--- 500
+This is  virtual network-----140
+825 1750
+826 500
+827 500
+828 1000
+829 500
+830 250
+node-link-information:
+from: 826 to: 825 bw: 1500.0
+from: 829 to: 825 bw: 1500.0
+from: 829 to: 827 bw: 2000.0
+from: 829 to: 828 bw: 1000.0
+The life time is:--- 450
+This is  virtual network-----141
+831 1500
+832 250
+833 1000
+834 250
+835 2000
+836 1500
+node-link-information:
+from: 833 to: 831 bw: 1000.0
+from: 834 to: 831 bw: 1000.0
+from: 835 to: 832 bw: 500.0
+from: 835 to: 834 bw: 1500.0
+The life time is:--- 150
+This is  virtual network-----142
+837 1750
+838 1500
+839 750
+840 1250
+841 2000
+node-link-information:
+The life time is:--- 400
+This is  virtual network-----143
+842 2500
+843 2250
+844 2500
+845 500
+846 2500
+847 750
+node-link-information:
+from: 846 to: 842 bw: 1000.0
+The life time is:--- 300
+This is  virtual network-----144
+848 750
+849 1250
+850 1000
+851 2500
+852 250
+node-link-information:
+from: 850 to: 849 bw: 2500.0
+from: 851 to: 848 bw: 1500.0
+from: 852 to: 849 bw: 1500.0
+from: 852 to: 850 bw: 2500.0
+The life time is:--- 50
+This is  virtual network-----145
+853 1250
+854 1500
+855 2500
+856 250
+857 500
+858 2000
+node-link-information:
+from: 855 to: 853 bw: 2500.0
+from: 855 to: 854 bw: 2000.0
+from: 856 to: 854 bw: 2500.0
+The life time is:--- 350
+This is  virtual network-----146
+859 1750
+860 500
+861 250
+862 500
+863 500
+864 2500
+865 1750
+node-link-information:
+from: 864 to: 863 bw: 1500.0
+from: 865 to: 862 bw: 1000.0
+from: 865 to: 863 bw: 500.0
+The life time is:--- 250
+This is  virtual network-----147
+866 2000
+867 1000
+868 750
+869 2500
+870 750
+871 2500
+872 2500
+873 1750
+node-link-information:
+from: 867 to: 866 bw: 1500.0
+from: 869 to: 866 bw: 1500.0
+from: 870 to: 869 bw: 500.0
+from: 871 to: 869 bw: 500.0
+from: 873 to: 867 bw: 1500.0
+from: 873 to: 870 bw: 500.0
+from: 873 to: 871 bw: 500.0
+from: 873 to: 872 bw: 1000.0
+The life time is:--- 450
+This is  virtual network-----148
+874 2000
+875 500
+876 2250
+877 2250
+878 250
+node-link-information:
+from: 878 to: 875 bw: 1000.0
+from: 878 to: 877 bw: 500.0
+The life time is:--- 300
+This is  virtual network-----149
+879 500
+880 250
+881 2250
+882 1750
+883 250
+884 2250
+885 1500
+node-link-information:
+from: 882 to: 881 bw: 2000.0
+from: 883 to: 882 bw: 1500.0
+from: 884 to: 880 bw: 2500.0
+from: 884 to: 882 bw: 1000.0
+The life time is:--- 500
+This is  virtual network-----150
+886 2000
+887 1250
+888 2000
+889 1750
+890 750
+891 1500
+892 2000
+893 750
+node-link-information:
+from: 888 to: 886 bw: 1000.0
+from: 888 to: 887 bw: 1500.0
+from: 889 to: 887 bw: 1000.0
+from: 891 to: 888 bw: 2500.0
+from: 891 to: 890 bw: 2000.0
+from: 892 to: 889 bw: 1500.0
+from: 892 to: 891 bw: 1500.0
+from: 893 to: 890 bw: 500.0
+from: 893 to: 891 bw: 2500.0
+The life time is:--- 150
+This is  virtual network-----151
+894 2500
+895 2000
+896 1750
+897 750
+898 1000
+899 250
+900 2000
+901 2250
+node-link-information:
+from: 897 to: 894 bw: 2500.0
+from: 899 to: 897 bw: 2000.0
+from: 900 to: 895 bw: 2500.0
+from: 900 to: 897 bw: 2000.0
+from: 901 to: 899 bw: 500.0
+The life time is:--- 400
+This is  virtual network-----152
+902 750
+903 1000
+904 500
+905 1750
+906 1250
+907 1250
+908 2500
+909 750
+node-link-information:
+from: 904 to: 903 bw: 1500.0
+from: 907 to: 903 bw: 2500.0
+from: 907 to: 905 bw: 500.0
+from: 908 to: 904 bw: 1500.0
+from: 909 to: 905 bw: 1500.0
+from: 909 to: 907 bw: 500.0
+The life time is:--- 300
+This is  virtual network-----153
+910 1500
+911 1250
+912 500
+913 2500
+914 2500
+915 750
+node-link-information:
+from: 912 to: 911 bw: 1000.0
+from: 913 to: 912 bw: 2500.0
+from: 914 to: 911 bw: 2000.0
+from: 914 to: 913 bw: 2500.0
+The life time is:--- 450
+This is  virtual network-----154
+916 1750
+917 1250
+918 1250
+919 750
+920 1000
+921 750
+922 2250
+node-link-information:
+from: 918 to: 917 bw: 500.0
+from: 919 to: 916 bw: 2000.0
+from: 919 to: 918 bw: 1000.0
+from: 920 to: 918 bw: 2500.0
+from: 921 to: 916 bw: 1000.0
+from: 921 to: 917 bw: 2500.0
+from: 922 to: 916 bw: 1000.0
+The life time is:--- 450
+This is  virtual network-----155
+923 500
+924 1000
+925 750
+926 750
+927 250
+928 1000
+929 1500
+930 500
+node-link-information:
+from: 929 to: 923 bw: 1000.0
+from: 929 to: 926 bw: 1500.0
+from: 929 to: 927 bw: 1000.0
+from: 930 to: 925 bw: 500.0
+from: 930 to: 928 bw: 2000.0
+The life time is:--- 450
+This is  virtual network-----156
+931 250
+932 1000
+933 1250
+934 250
+node-link-information:
+The life time is:--- 450
+This is  virtual network-----157
+935 1000
+936 250
+937 500
+938 1750
+node-link-information:
+The life time is:--- 450
+This is  virtual network-----158
+939 1500
+940 1500
+941 250
+942 1250
+943 1250
+node-link-information:
+from: 942 to: 940 bw: 1500.0
+from: 943 to: 940 bw: 1500.0
+The life time is:--- 350
+This is  virtual network-----159
+944 1000
+945 1750
+946 500
+947 2000
+948 1500
+node-link-information:
+from: 947 to: 945 bw: 1000.0
+The life time is:--- 100
+This is  virtual network-----160
+949 750
+950 2250
+951 1250
+952 500
+953 1500
+954 1000
+955 1250
+node-link-information:
+from: 951 to: 949 bw: 1500.0
+from: 953 to: 949 bw: 1500.0
+from: 954 to: 951 bw: 500.0
+The life time is:--- 500
+This is  virtual network-----161
+956 2500
+957 500
+958 1750
+959 1250
+960 2250
+node-link-information:
+from: 960 to: 958 bw: 1500.0
+The life time is:--- 100
+This is  virtual network-----162
+961 1750
+962 1500
+963 2000
+964 1250
+965 1750
+966 1750
+node-link-information:
+from: 965 to: 961 bw: 500.0
+from: 966 to: 961 bw: 2000.0
+The life time is:--- 450
+This is  virtual network-----163
+967 750
+968 500
+969 500
+970 500
+971 2000
+972 1000
+973 1500
+node-link-information:
+from: 968 to: 967 bw: 1000.0
+from: 971 to: 969 bw: 1000.0
+from: 972 to: 968 bw: 2000.0
+from: 972 to: 969 bw: 500.0
+from: 972 to: 971 bw: 1000.0
+The life time is:--- 450
+This is  virtual network-----164
+974 250
+975 2250
+976 1250
+977 1500
+978 1000
+node-link-information:
+from: 977 to: 976 bw: 1500.0
+from: 978 to: 974 bw: 2500.0
+The life time is:--- 450
+This is  virtual network-----165
+979 1250
+980 2000
+981 750
+982 2500
+983 2250
+984 1750
+985 2500
+986 2500
+node-link-information:
+from: 985 to: 982 bw: 1000.0
+from: 986 to: 984 bw: 2500.0
+The life time is:--- 100
+This is  virtual network-----166
+987 500
+988 500
+989 1250
+990 500
+991 500
+node-link-information:
+The life time is:--- 150
+This is  virtual network-----167
+992 1500
+993 750
+994 1750
+995 1250
+996 2000
+997 2250
+998 1750
+node-link-information:
+from: 995 to: 993 bw: 500.0
+from: 997 to: 995 bw: 2500.0
+from: 998 to: 992 bw: 2000.0
+from: 998 to: 996 bw: 500.0
+The life time is:--- 450
+This is  virtual network-----168
+999 2000
+1000 1750
+1001 500
+1002 1750
+1003 500
+1004 1500
+1005 1750
+node-link-information:
+from: 1002 to: 1001 bw: 2500.0
+from: 1003 to: 1001 bw: 1000.0
+from: 1003 to: 1002 bw: 2000.0
+from: 1004 to: 1001 bw: 1000.0
+from: 1005 to: 1004 bw: 1000.0
+The life time is:--- 500
+This is  virtual network-----169
+1006 1000
+1007 250
+1008 2000
+1009 2500
+1010 2250
+1011 2500
+1012 1750
+node-link-information:
+from: 1011 to: 1006 bw: 1000.0
+from: 1011 to: 1009 bw: 2000.0
+from: 1012 to: 1006 bw: 500.0
+The life time is:--- 200
+This is  virtual network-----170
+1013 500
+1014 1750
+1015 750
+1016 2000
+node-link-information:
+from: 1016 to: 1015 bw: 2500.0
+The life time is:--- 450
+This is  virtual network-----171
+1017 1000
+1018 1500
+1019 1750
+1020 750
+node-link-information:
+from: 1018 to: 1017 bw: 2500.0
+The life time is:--- 300
+This is  virtual network-----172
+1021 500
+1022 1500
+1023 500
+1024 1000
+1025 500
+1026 2000
+1027 2500
+1028 2000
+node-link-information:
+from: 1026 to: 1025 bw: 1000.0
+from: 1027 to: 1021 bw: 500.0
+from: 1027 to: 1025 bw: 500.0
+from: 1028 to: 1021 bw: 1500.0
+The life time is:--- 100
+This is  virtual network-----173
+1029 250
+1030 2250
+1031 1250
+1032 1250
+1033 1250
+1034 2000
+1035 500
+1036 1750
+node-link-information:
+from: 1031 to: 1030 bw: 1500.0
+from: 1032 to: 1029 bw: 500.0
+from: 1033 to: 1029 bw: 1000.0
+from: 1033 to: 1032 bw: 1000.0
+from: 1034 to: 1030 bw: 500.0
+from: 1035 to: 1029 bw: 1000.0
+from: 1035 to: 1030 bw: 2500.0
+from: 1036 to: 1033 bw: 2500.0
+from: 1036 to: 1035 bw: 500.0
+The life time is:--- 350
+This is  virtual network-----174
+1037 750
+1038 2250
+1039 2250
+1040 500
+1041 500
+1042 2500
+1043 750
+node-link-information:
+from: 1040 to: 1037 bw: 1500.0
+from: 1041 to: 1037 bw: 1000.0
+from: 1042 to: 1037 bw: 2500.0
+from: 1042 to: 1041 bw: 2000.0
+from: 1043 to: 1039 bw: 2000.0
+from: 1043 to: 1042 bw: 1000.0
+The life time is:--- 100
+This is  virtual network-----175
+1044 750
+1045 750
+1046 1250
+1047 1750
+1048 750
+1049 2000
+1050 1500
+node-link-information:
+from: 1048 to: 1046 bw: 2500.0
+from: 1048 to: 1047 bw: 2000.0
+from: 1049 to: 1044 bw: 1000.0
+from: 1049 to: 1045 bw: 2000.0
+from: 1049 to: 1048 bw: 2500.0
+The life time is:--- 500
+This is  virtual network-----176
+1051 1000
+1052 1250
+1053 1750
+1054 1250
+node-link-information:
+from: 1053 to: 1052 bw: 1500.0
+The life time is:--- 250
+This is  virtual network-----177
+1055 2250
+1056 500
+1057 1250
+1058 750
+node-link-information:
+from: 1058 to: 1057 bw: 2000.0
+The life time is:--- 250
+This is  virtual network-----178
+1059 1750
+1060 2000
+1061 2250
+1062 2250
+1063 1250
+1064 1000
+1065 1750
+node-link-information:
+from: 1062 to: 1059 bw: 1500.0
+from: 1063 to: 1061 bw: 1000.0
+from: 1064 to: 1060 bw: 2500.0
+The life time is:--- 100
+This is  virtual network-----179
+1066 750
+1067 1750
+1068 250
+1069 2250
+1070 1250
+1071 250
+1072 2250
+node-link-information:
+from: 1070 to: 1069 bw: 1500.0
+from: 1072 to: 1069 bw: 500.0
+The life time is:--- 100
+This is  virtual network-----180
+1073 2000
+1074 500
+1075 2500
+1076 500
+1077 500
+node-link-information:
+from: 1074 to: 1073 bw: 2000.0
+from: 1075 to: 1073 bw: 1000.0
+from: 1075 to: 1074 bw: 500.0
+from: 1077 to: 1076 bw: 1500.0
+The life time is:--- 100
+This is  virtual network-----181
+1078 1500
+1079 2250
+1080 250
+1081 1000
+node-link-information:
+from: 1080 to: 1079 bw: 1000.0
+from: 1081 to: 1078 bw: 2500.0
+from: 1081 to: 1079 bw: 2000.0
+The life time is:--- 500
+This is  virtual network-----182
+1082 500
+1083 1250
+1084 2250
+1085 250
+1086 1500
+1087 500
+1088 500
+1089 2000
+node-link-information:
+from: 1084 to: 1083 bw: 1000.0
+from: 1085 to: 1082 bw: 1000.0
+from: 1088 to: 1085 bw: 1000.0
+The life time is:--- 200
+This is  virtual network-----183
+1090 2500
+1091 1000
+1092 2250
+1093 500
+1094 1250
+1095 750
+node-link-information:
+from: 1093 to: 1092 bw: 500.0
+from: 1095 to: 1094 bw: 2500.0
+The life time is:--- 400
+This is  virtual network-----184
+1096 2500
+1097 250
+1098 2500
+1099 1250
+1100 2500
+1101 1250
+1102 1750
+1103 750
+node-link-information:
+from: 1097 to: 1096 bw: 1000.0
+from: 1099 to: 1096 bw: 1000.0
+from: 1099 to: 1097 bw: 2500.0
+from: 1099 to: 1098 bw: 500.0
+from: 1100 to: 1097 bw: 2000.0
+from: 1102 to: 1096 bw: 1500.0
+from: 1102 to: 1099 bw: 2000.0
+from: 1103 to: 1101 bw: 2000.0
+The life time is:--- 200
+This is  virtual network-----185
+1104 1500
+1105 2250
+1106 1000
+1107 1750
+1108 1500
+node-link-information:
+from: 1106 to: 1104 bw: 2000.0
+from: 1108 to: 1105 bw: 2500.0
+The life time is:--- 50
+This is  virtual network-----186
+1109 500
+1110 2500
+1111 500
+1112 2000
+1113 1500
+node-link-information:
+The life time is:--- 500
+This is  virtual network-----187
+1114 250
+1115 750
+1116 250
+1117 250
+1118 500
+1119 2000
+node-link-information:
+from: 1117 to: 1115 bw: 500.0
+from: 1118 to: 1117 bw: 500.0
+The life time is:--- 300
+This is  virtual network-----188
+1120 2000
+1121 2500
+1122 1750
+1123 2000
+1124 750
+1125 500
+1126 2250
+1127 1750
+node-link-information:
+from: 1123 to: 1121 bw: 500.0
+from: 1125 to: 1120 bw: 1500.0
+from: 1125 to: 1123 bw: 2000.0
+from: 1126 to: 1121 bw: 2500.0
+from: 1126 to: 1123 bw: 1000.0
+The life time is:--- 300
+This is  virtual network-----189
+1128 2000
+1129 750
+1130 2000
+1131 750
+1132 1500
+node-link-information:
+from: 1131 to: 1128 bw: 1000.0
+from: 1131 to: 1129 bw: 1500.0
+The life time is:--- 500
+This is  virtual network-----190
+1133 2250
+1134 750
+1135 2000
+1136 250
+1137 2500
+1138 1250
+1139 500
+node-link-information:
+from: 1137 to: 1133 bw: 1000.0
+from: 1137 to: 1134 bw: 2500.0
+from: 1137 to: 1136 bw: 2000.0
+from: 1138 to: 1133 bw: 2500.0
+from: 1139 to: 1137 bw: 2000.0
+The life time is:--- 350
+This is  virtual network-----191
+1140 2500
+1141 2000
+1142 750
+1143 1000
+1144 1750
+1145 1250
+1146 500
+1147 1250
+node-link-information:
+from: 1141 to: 1140 bw: 2000.0
+from: 1144 to: 1141 bw: 2500.0
+from: 1144 to: 1142 bw: 2500.0
+from: 1145 to: 1140 bw: 2500.0
+from: 1146 to: 1142 bw: 1000.0
+from: 1146 to: 1143 bw: 1000.0
+from: 1147 to: 1141 bw: 2500.0
+from: 1147 to: 1143 bw: 1500.0
+from: 1147 to: 1145 bw: 1000.0
+The life time is:--- 50
+This is  virtual network-----192
+1148 750
+1149 2500
+1150 750
+1151 1000
+1152 500
+node-link-information:
+from: 1150 to: 1149 bw: 1000.0
+from: 1151 to: 1149 bw: 1500.0
+from: 1152 to: 1151 bw: 1000.0
+The life time is:--- 450
+This is  virtual network-----193
+1153 2000
+1154 750
+1155 1000
+1156 1500
+1157 2000
+1158 1750
+1159 2500
+node-link-information:
+from: 1155 to: 1153 bw: 500.0
+from: 1157 to: 1154 bw: 500.0
+from: 1159 to: 1155 bw: 2000.0
+The life time is:--- 400
+This is  virtual network-----194
+1160 1750
+1161 2000
+1162 1000
+1163 1250
+1164 1000
+1165 2500
+1166 2500
+node-link-information:
+from: 1161 to: 1160 bw: 2000.0
+from: 1162 to: 1160 bw: 500.0
+from: 1162 to: 1161 bw: 1500.0
+from: 1164 to: 1162 bw: 2500.0
+from: 1164 to: 1163 bw: 500.0
+from: 1166 to: 1161 bw: 500.0
+The life time is:--- 300
+This is  virtual network-----195
+1167 1750
+1168 1000
+1169 2500
+1170 2500
+node-link-information:
+from: 1170 to: 1167 bw: 1000.0
+The life time is:--- 400
+This is  virtual network-----196
+1171 1000
+1172 2000
+1173 1500
+1174 1000
+1175 1500
+node-link-information:
+The life time is:--- 250
+This is  virtual network-----197
+1176 250
+1177 750
+1178 2500
+1179 1500
+1180 250
+1181 2500
+1182 1500
+node-link-information:
+from: 1180 to: 1178 bw: 500.0
+from: 1181 to: 1180 bw: 2500.0
+from: 1182 to: 1180 bw: 1000.0
+from: 1182 to: 1181 bw: 2500.0
+The life time is:--- 450
+This is  virtual network-----198
+1183 1250
+1184 1750
+1185 1250
+1186 250
+1187 1000
+1188 2500
+1189 1500
+node-link-information:
+from: 1188 to: 1184 bw: 1500.0
+from: 1188 to: 1185 bw: 1500.0
+from: 1188 to: 1187 bw: 1500.0
+from: 1189 to: 1187 bw: 2500.0
+The life time is:--- 500
+This is  virtual network-----199
+1190 2500
+1191 750
+1192 1500
+1193 1500
+1194 250
+node-link-information:
+from: 1192 to: 1190 bw: 1000.0
+from: 1193 to: 1190 bw: 1000.0
+from: 1194 to: 1191 bw: 500.0
+The life time is:--- 200
+This is  virtual network-----200
+1195 1500
+1196 750
+1197 2500
+1198 1750
+1199 2250
+node-link-information:
+from: 1198 to: 1197 bw: 2000.0
+from: 1199 to: 1196 bw: 1000.0
+The life time is:--- 200
+This is  virtual network-----201
+1200 250
+1201 2500
+1202 1250
+1203 2500
+1204 750
+1205 750
+1206 1500
+1207 1250
+node-link-information:
+from: 1202 to: 1200 bw: 1000.0
+from: 1202 to: 1201 bw: 2000.0
+from: 1203 to: 1202 bw: 1500.0
+from: 1204 to: 1202 bw: 2500.0
+from: 1204 to: 1203 bw: 1500.0
+The life time is:--- 350
+This is  virtual network-----202
+1208 500
+1209 1500
+1210 750
+1211 2500
+1212 1250
+1213 1750
+node-link-information:
+from: 1209 to: 1208 bw: 2500.0
+from: 1210 to: 1209 bw: 2000.0
+from: 1211 to: 1208 bw: 1500.0
+The life time is:--- 500
+This is  virtual network-----203
+1214 1000
+1215 2500
+1216 1750
+1217 750
+node-link-information:
+from: 1217 to: 1215 bw: 2500.0
+The life time is:--- 50
+This is  virtual network-----204
+1218 1000
+1219 1000
+1220 1250
+1221 250
+node-link-information:
+from: 1221 to: 1218 bw: 1000.0
+The life time is:--- 100
+This is  virtual network-----205
+1222 250
+1223 500
+1224 1500
+1225 250
+1226 1000
+node-link-information:
+The life time is:--- 350
+This is  virtual network-----206
+1227 2500
+1228 1000
+1229 500
+1230 1250
+1231 1750
+1232 1750
+node-link-information:
+from: 1229 to: 1228 bw: 1000.0
+from: 1231 to: 1229 bw: 1500.0
+The life time is:--- 200
+This is  virtual network-----207
+1233 1750
+1234 2250
+1235 2500
+1236 1500
+1237 750
+1238 750
+node-link-information:
+from: 1236 to: 1233 bw: 1000.0
+The life time is:--- 350
+This is  virtual network-----208
+1239 1250
+1240 1000
+1241 500
+1242 500
+1243 750
+node-link-information:
+from: 1242 to: 1239 bw: 2000.0
+from: 1242 to: 1241 bw: 1000.0
+from: 1243 to: 1241 bw: 1500.0
+The life time is:--- 50
+This is  virtual network-----209
+1244 1500
+1245 2250
+1246 1500
+1247 1500
+node-link-information:
+from: 1246 to: 1244 bw: 2000.0
+The life time is:--- 500
+This is  virtual network-----210
+1248 250
+1249 1750
+1250 2000
+1251 2250
+node-link-information:
+from: 1249 to: 1248 bw: 2500.0
+The life time is:--- 250
+This is  virtual network-----211
+1252 1000
+1253 750
+1254 2500
+1255 1000
+1256 1250
+1257 1750
+1258 2500
+node-link-information:
+from: 1258 to: 1254 bw: 1500.0
+from: 1258 to: 1257 bw: 500.0
+The life time is:--- 150
+This is  virtual network-----212
+1259 2000
+1260 1000
+1261 1500
+1262 2000
+1263 1000
+node-link-information:
+from: 1262 to: 1260 bw: 1000.0
+from: 1263 to: 1260 bw: 2000.0
+The life time is:--- 350
+This is  virtual network-----213
+1264 500
+1265 750
+1266 1250
+1267 1250
+node-link-information:
+from: 1265 to: 1264 bw: 1500.0
+from: 1266 to: 1265 bw: 500.0
+from: 1267 to: 1264 bw: 500.0
+from: 1267 to: 1265 bw: 2500.0
+The life time is:--- 150
+This is  virtual network-----214
+1268 2500
+1269 250
+1270 2500
+1271 250
+1272 750
+1273 1000
+1274 1500
+node-link-information:
+from: 1272 to: 1268 bw: 2000.0
+The life time is:--- 400
+This is  virtual network-----215
+1275 1000
+1276 2250
+1277 2000
+1278 500
+node-link-information:
+from: 1278 to: 1275 bw: 2000.0
+The life time is:--- 100
+This is  virtual network-----216
+1279 1750
+1280 750
+1281 1500
+1282 1750
+1283 1000
+1284 500
+node-link-information:
+from: 1281 to: 1279 bw: 500.0
+from: 1283 to: 1279 bw: 2000.0
+from: 1283 to: 1280 bw: 2500.0
+from: 1284 to: 1282 bw: 2000.0
+from: 1284 to: 1283 bw: 2500.0
+The life time is:--- 350
+This is  virtual network-----217
+1285 250
+1286 1750
+1287 250
+1288 2500
+1289 1500
+node-link-information:
+from: 1289 to: 1287 bw: 2500.0
+The life time is:--- 500
+This is  virtual network-----218
+1290 2250
+1291 2250
+1292 2000
+1293 1750
+1294 1250
+1295 500
+node-link-information:
+from: 1291 to: 1290 bw: 500.0
+from: 1294 to: 1291 bw: 500.0
+from: 1294 to: 1292 bw: 1500.0
+The life time is:--- 450
+This is  virtual network-----219
+1296 250
+1297 2000
+1298 750
+1299 500
+1300 1500
+1301 2250
+node-link-information:
+from: 1297 to: 1296 bw: 1000.0
+from: 1299 to: 1297 bw: 1000.0
+The life time is:--- 350
+This is  virtual network-----220
+1302 500
+1303 500
+1304 500
+1305 2000
+1306 1250
+1307 250
+node-link-information:
+from: 1305 to: 1302 bw: 1500.0
+from: 1306 to: 1302 bw: 2000.0
+from: 1306 to: 1305 bw: 1500.0
+from: 1307 to: 1302 bw: 2000.0
+from: 1307 to: 1305 bw: 2000.0
+The life time is:--- 350
+This is  virtual network-----221
+1308 1500
+1309 1750
+1310 2000
+1311 2250
+1312 250
+1313 2250
+1314 2250
+1315 2000
+node-link-information:
+from: 1311 to: 1309 bw: 2500.0
+from: 1312 to: 1311 bw: 2500.0
+from: 1313 to: 1308 bw: 1500.0
+from: 1313 to: 1311 bw: 2500.0
+from: 1315 to: 1308 bw: 2500.0
+The life time is:--- 150
+This is  virtual network-----222
+1316 2000
+1317 1000
+1318 2250
+1319 500
+1320 250
+1321 250
+1322 1500
+1323 1000
+node-link-information:
+from: 1320 to: 1316 bw: 1000.0
+from: 1322 to: 1316 bw: 2500.0
+from: 1322 to: 1320 bw: 1500.0
+from: 1323 to: 1320 bw: 2500.0
+from: 1323 to: 1322 bw: 1000.0
+The life time is:--- 450
+This is  virtual network-----223
+1324 1000
+1325 2250
+1326 2000
+1327 750
+1328 1000
+1329 250
+1330 250
+node-link-information:
+from: 1325 to: 1324 bw: 2500.0
+from: 1326 to: 1324 bw: 500.0
+from: 1326 to: 1325 bw: 1500.0
+from: 1327 to: 1325 bw: 1000.0
+from: 1327 to: 1326 bw: 1500.0
+The life time is:--- 300
+This is  virtual network-----224
+1331 500
+1332 500
+1333 2000
+1334 750
+1335 500
+1336 1750
+1337 250
+node-link-information:
+from: 1334 to: 1333 bw: 2000.0
+from: 1335 to: 1334 bw: 2500.0
+from: 1336 to: 1332 bw: 500.0
+from: 1337 to: 1335 bw: 2500.0
+The life time is:--- 200
+This is  virtual network-----225
+1338 2500
+1339 2250
+1340 500
+1341 1750
+1342 1500
+1343 750
+1344 1250
+1345 2500
+node-link-information:
+from: 1340 to: 1338 bw: 1500.0
+from: 1340 to: 1339 bw: 1000.0
+from: 1343 to: 1339 bw: 1000.0
+from: 1343 to: 1340 bw: 500.0
+from: 1345 to: 1340 bw: 1000.0
+from: 1345 to: 1341 bw: 2000.0
+from: 1345 to: 1343 bw: 500.0
+The life time is:--- 300
+This is  virtual network-----226
+1346 2000
+1347 2250
+1348 750
+1349 1500
+1350 1000
+1351 2250
+node-link-information:
+from: 1347 to: 1346 bw: 1000.0
+from: 1349 to: 1346 bw: 2000.0
+from: 1350 to: 1346 bw: 2500.0
+from: 1350 to: 1348 bw: 2500.0
+from: 1350 to: 1349 bw: 1000.0
+The life time is:--- 50
+This is  virtual network-----227
+1352 500
+1353 2250
+1354 500
+1355 500
+1356 1500
+node-link-information:
+from: 1355 to: 1354 bw: 1000.0
+The life time is:--- 250
+This is  virtual network-----228
+1357 2250
+1358 1750
+1359 2500
+1360 1500
+1361 1500
+1362 500
+1363 2250
+1364 1500
+node-link-information:
+from: 1358 to: 1357 bw: 500.0
+from: 1360 to: 1357 bw: 2000.0
+from: 1361 to: 1360 bw: 2000.0
+from: 1362 to: 1360 bw: 2500.0
+from: 1364 to: 1357 bw: 500.0
+from: 1364 to: 1358 bw: 1500.0
+from: 1364 to: 1362 bw: 500.0
+The life time is:--- 200
+This is  virtual network-----229
+1365 500
+1366 1250
+1367 2250
+1368 2250
+1369 1750
+1370 1250
+1371 2500
+node-link-information:
+from: 1367 to: 1365 bw: 1500.0
+from: 1368 to: 1366 bw: 1500.0
+from: 1370 to: 1366 bw: 1000.0
+from: 1370 to: 1367 bw: 1500.0
+from: 1370 to: 1369 bw: 500.0
+from: 1371 to: 1366 bw: 2500.0
+from: 1371 to: 1369 bw: 500.0
+The life time is:--- 150
+This is  virtual network-----230
+1372 250
+1373 1000
+1374 750
+1375 2250
+1376 1500
+1377 500
+1378 1750
+1379 250
+node-link-information:
+from: 1378 to: 1377 bw: 1500.0
+from: 1379 to: 1378 bw: 1500.0
+The life time is:--- 100
+This is  virtual network-----231
+1380 2500
+1381 750
+1382 2000
+1383 2250
+1384 1750
+1385 750
+1386 750
+node-link-information:
+from: 1383 to: 1380 bw: 2000.0
+from: 1383 to: 1381 bw: 1500.0
+from: 1384 to: 1380 bw: 2000.0
+from: 1384 to: 1383 bw: 1000.0
+from: 1385 to: 1380 bw: 2500.0
+from: 1385 to: 1382 bw: 1000.0
+from: 1386 to: 1381 bw: 500.0
+from: 1386 to: 1385 bw: 2500.0
+The life time is:--- 450
+This is  virtual network-----232
+1387 2500
+1388 1250
+1389 250
+1390 2500
+node-link-information:
+The life time is:--- 250
+This is  virtual network-----233
+1391 2500
+1392 1000
+1393 1750
+1394 1500
+1395 500
+1396 750
+node-link-information:
+from: 1394 to: 1392 bw: 2000.0
+The life time is:--- 450
+This is  virtual network-----234
+1397 250
+1398 2500
+1399 1750
+1400 1250
+1401 1000
+1402 1500
+1403 750
+node-link-information:
+from: 1399 to: 1398 bw: 500.0
+from: 1400 to: 1398 bw: 2500.0
+from: 1402 to: 1397 bw: 1500.0
+from: 1402 to: 1398 bw: 500.0
+from: 1402 to: 1401 bw: 2000.0
+from: 1403 to: 1397 bw: 1000.0
+The life time is:--- 350
+This is  virtual network-----235
+1404 2500
+1405 2000
+1406 500
+1407 1500
+1408 1000
+node-link-information:
+from: 1406 to: 1404 bw: 2000.0
+from: 1407 to: 1404 bw: 2500.0
+from: 1408 to: 1404 bw: 2500.0
+from: 1408 to: 1405 bw: 1500.0
+The life time is:--- 50
+This is  virtual network-----236
+1409 1500
+1410 1250
+1411 1500
+1412 1750
+node-link-information:
+from: 1412 to: 1410 bw: 500.0
+The life time is:--- 450
+This is  virtual network-----237
+1413 2500
+1414 2500
+1415 750
+1416 250
+1417 2250
+1418 2250
+node-link-information:
+from: 1415 to: 1414 bw: 500.0
+from: 1417 to: 1416 bw: 1500.0
+from: 1418 to: 1413 bw: 500.0
+from: 1418 to: 1414 bw: 2500.0
+The life time is:--- 250
+This is  virtual network-----238
+1419 1250
+1420 750
+1421 1500
+1422 1750
+1423 1000
+1424 250
+node-link-information:
+from: 1422 to: 1419 bw: 1000.0
+from: 1422 to: 1420 bw: 2000.0
+from: 1423 to: 1419 bw: 2500.0
+The life time is:--- 250
+This is  virtual network-----239
+1425 1000
+1426 750
+1427 750
+1428 750
+1429 250
+1430 2000
+1431 2500
+node-link-information:
+from: 1427 to: 1426 bw: 2500.0
+from: 1428 to: 1426 bw: 1500.0
+from: 1429 to: 1425 bw: 500.0
+from: 1430 to: 1426 bw: 1000.0
+from: 1430 to: 1427 bw: 1000.0
+from: 1430 to: 1429 bw: 2000.0
+from: 1431 to: 1426 bw: 500.0
+from: 1431 to: 1427 bw: 2000.0
+from: 1431 to: 1428 bw: 2000.0
+from: 1431 to: 1430 bw: 1000.0
+The life time is:--- 50
+This is  virtual network-----240
+1432 2000
+1433 1500
+1434 1750
+1435 2500
+1436 500
+node-link-information:
+from: 1433 to: 1432 bw: 2000.0
+from: 1434 to: 1433 bw: 1000.0
+The life time is:--- 150
+This is  virtual network-----241
+1437 750
+1438 2250
+1439 500
+1440 2500
+1441 1500
+1442 750
+1443 1000
+1444 250
+node-link-information:
+from: 1440 to: 1438 bw: 1000.0
+from: 1442 to: 1437 bw: 2000.0
+from: 1442 to: 1441 bw: 1000.0
+from: 1443 to: 1439 bw: 1500.0
+from: 1444 to: 1442 bw: 500.0
+The life time is:--- 500
+This is  virtual network-----242
+1445 1000
+1446 2000
+1447 250
+1448 1250
+1449 1750
+node-link-information:
+from: 1448 to: 1447 bw: 1500.0
+The life time is:--- 50
+This is  virtual network-----243
+1450 2250
+1451 2250
+1452 500
+1453 1000
+1454 750
+1455 1000
+1456 500
+1457 1000
+node-link-information:
+from: 1457 to: 1453 bw: 1000.0
+from: 1457 to: 1454 bw: 1500.0
+from: 1457 to: 1456 bw: 500.0
+The life time is:--- 50
+This is  virtual network-----244
+1458 2500
+1459 1000
+1460 500
+1461 500
+1462 750
+1463 1750
+1464 2250
+node-link-information:
+from: 1464 to: 1463 bw: 1000.0
+The life time is:--- 350
+This is  virtual network-----245
+1465 2000
+1466 2000
+1467 1500
+1468 1500
+1469 1500
+1470 2000
+1471 2500
+1472 2000
+node-link-information:
+from: 1468 to: 1466 bw: 2000.0
+from: 1471 to: 1465 bw: 1500.0
+from: 1471 to: 1468 bw: 500.0
+from: 1471 to: 1469 bw: 500.0
+from: 1472 to: 1466 bw: 2000.0
+from: 1472 to: 1467 bw: 500.0
+from: 1472 to: 1469 bw: 1000.0
+from: 1472 to: 1470 bw: 2000.0
+The life time is:--- 250
+This is  virtual network-----246
+1473 2500
+1474 2000
+1475 1750
+1476 2500
+1477 750
+1478 2500
+1479 1750
+1480 2250
+node-link-information:
+from: 1475 to: 1474 bw: 500.0
+from: 1476 to: 1473 bw: 1000.0
+from: 1476 to: 1475 bw: 2000.0
+from: 1477 to: 1473 bw: 1000.0
+from: 1478 to: 1475 bw: 2000.0
+The life time is:--- 300
+This is  virtual network-----247
+1481 1000
+1482 2500
+1483 2250
+1484 2250
+1485 1250
+1486 750
+1487 2500
+1488 250
+node-link-information:
+from: 1483 to: 1481 bw: 1000.0
+from: 1484 to: 1481 bw: 2500.0
+from: 1484 to: 1483 bw: 2000.0
+from: 1485 to: 1482 bw: 2000.0
+from: 1486 to: 1481 bw: 500.0
+from: 1486 to: 1483 bw: 1500.0
+from: 1486 to: 1484 bw: 500.0
+from: 1487 to: 1482 bw: 2500.0
+from: 1487 to: 1484 bw: 500.0
+from: 1488 to: 1484 bw: 500.0
+The life time is:--- 100
+This is  virtual network-----248
+1489 2000
+1490 1000
+1491 2500
+1492 1000
+1493 2250
+1494 1000
+node-link-information:
+from: 1492 to: 1490 bw: 2500.0
+from: 1493 to: 1489 bw: 2000.0
+from: 1494 to: 1491 bw: 500.0
+The life time is:--- 400
+This is  virtual network-----249
+1495 1250
+1496 250
+1497 250
+1498 2000
+node-link-information:
+from: 1496 to: 1495 bw: 2500.0
+The life time is:--- 150
+This is  virtual network-----250
+1499 1750
+1500 2250
+1501 1750
+1502 250
+node-link-information:
+from: 1501 to: 1499 bw: 1000.0
+The life time is:--- 450
+This is  virtual network-----251
+1503 1250
+1504 750
+1505 250
+1506 2500
+1507 1750
+node-link-information:
+from: 1504 to: 1503 bw: 1000.0
+from: 1506 to: 1504 bw: 2000.0
+from: 1507 to: 1506 bw: 2000.0
+The life time is:--- 250
+This is  virtual network-----252
+1508 2000
+1509 250
+1510 1750
+1511 1000
+1512 1500
+1513 1750
+1514 1750
+1515 2250
+node-link-information:
+from: 1513 to: 1510 bw: 2500.0
+from: 1515 to: 1508 bw: 1500.0
+from: 1515 to: 1511 bw: 2500.0
+from: 1515 to: 1513 bw: 2500.0
+from: 1515 to: 1514 bw: 2000.0
+The life time is:--- 150
+This is  virtual network-----253
+1516 750
+1517 1500
+1518 500
+1519 2250
+1520 1250
+1521 500
+1522 2250
+node-link-information:
+from: 1518 to: 1516 bw: 2500.0
+from: 1519 to: 1516 bw: 2500.0
+from: 1519 to: 1517 bw: 500.0
+from: 1520 to: 1517 bw: 1000.0
+from: 1522 to: 1516 bw: 2500.0
+from: 1522 to: 1518 bw: 1500.0
+from: 1522 to: 1519 bw: 1500.0
+The life time is:--- 150
+This is  virtual network-----254
+1523 2250
+1524 250
+1525 1250
+1526 750
+node-link-information:
+from: 1525 to: 1524 bw: 1000.0
+The life time is:--- 400
+This is  virtual network-----255
+1527 1500
+1528 1000
+1529 250
+1530 750
+node-link-information:
+The life time is:--- 300
+This is  virtual network-----256
+1531 1250
+1532 2000
+1533 1250
+1534 2000
+node-link-information:
+from: 1534 to: 1531 bw: 2000.0
+The life time is:--- 400
+This is  virtual network-----257
+1535 1500
+1536 500
+1537 2000
+1538 750
+1539 1750
+1540 1500
+node-link-information:
+from: 1536 to: 1535 bw: 500.0
+The life time is:--- 250
+This is  virtual network-----258
+1541 500
+1542 1500
+1543 1250
+1544 250
+1545 2500
+1546 1500
+1547 2250
+node-link-information:
+from: 1543 to: 1541 bw: 2000.0
+from: 1547 to: 1546 bw: 2500.0
+The life time is:--- 350
+This is  virtual network-----259
+1548 1750
+1549 2250
+1550 1250
+1551 250
+1552 250
+node-link-information:
+from: 1551 to: 1548 bw: 500.0
+from: 1551 to: 1549 bw: 1500.0
+from: 1552 to: 1551 bw: 2500.0
+The life time is:--- 350
+This is  virtual network-----260
+1553 1250
+1554 750
+1555 2500
+1556 750
+1557 2500
+1558 2250
+1559 750
+node-link-information:
+from: 1555 to: 1554 bw: 1000.0
+from: 1556 to: 1554 bw: 500.0
+from: 1556 to: 1555 bw: 1500.0
+from: 1557 to: 1554 bw: 500.0
+from: 1557 to: 1555 bw: 2000.0
+from: 1559 to: 1557 bw: 500.0
+The life time is:--- 350
+This is  virtual network-----261
+1560 1500
+1561 2250
+1562 2500
+1563 500
+1564 2500
+1565 1250
+node-link-information:
+from: 1561 to: 1560 bw: 500.0
+The life time is:--- 100
+This is  virtual network-----262
+1566 750
+1567 1000
+1568 2250
+1569 1000
+node-link-information:
+from: 1568 to: 1567 bw: 1000.0
+The life time is:--- 300
+This is  virtual network-----263
+1570 500
+1571 1500
+1572 2250
+1573 1000
+node-link-information:
+The life time is:--- 400
+This is  virtual network-----264
+1574 500
+1575 250
+1576 1750
+1577 2250
+node-link-information:
+from: 1577 to: 1574 bw: 2000.0
+The life time is:--- 100
+This is  virtual network-----265
+1578 750
+1579 250
+1580 250
+1581 2250
+1582 250
+1583 2000
+node-link-information:
+from: 1581 to: 1578 bw: 500.0
+from: 1582 to: 1578 bw: 500.0
+from: 1582 to: 1579 bw: 2500.0
+from: 1582 to: 1580 bw: 1500.0
+from: 1582 to: 1581 bw: 500.0
+The life time is:--- 500
+This is  virtual network-----266
+1584 1000
+1585 1000
+1586 2500
+1587 250
+1588 1250
+node-link-information:
+The life time is:--- 350
+This is  virtual network-----267
+1589 500
+1590 1000
+1591 750
+1592 2000
+1593 1250
+1594 500
+1595 1000
+node-link-information:
+from: 1592 to: 1589 bw: 1500.0
+from: 1593 to: 1591 bw: 500.0
+from: 1594 to: 1593 bw: 2000.0
+from: 1595 to: 1591 bw: 1000.0
+from: 1595 to: 1594 bw: 2500.0
+The life time is:--- 350
+This is  virtual network-----268
+1596 750
+1597 750
+1598 2250
+1599 500
+node-link-information:
+The life time is:--- 450
+This is  virtual network-----269
+1600 2250
+1601 1750
+1602 250
+1603 1750
+1604 1500
+node-link-information:
+from: 1602 to: 1600 bw: 1500.0
+The life time is:--- 450
+This is  virtual network-----270
+1605 1750
+1606 250
+1607 250
+1608 2000
+1609 1500
+1610 500
+node-link-information:
+from: 1608 to: 1605 bw: 1500.0
+from: 1609 to: 1607 bw: 2000.0
+from: 1610 to: 1606 bw: 1000.0
+from: 1610 to: 1607 bw: 2000.0
+The life time is:--- 300
+This is  virtual network-----271
+1611 1000
+1612 1500
+1613 2250
+1614 750
+1615 250
+node-link-information:
+from: 1613 to: 1611 bw: 1000.0
+from: 1614 to: 1613 bw: 500.0
+from: 1615 to: 1612 bw: 1500.0
+The life time is:--- 150
+This is  virtual network-----272
+1616 250
+1617 250
+1618 1000
+1619 1500
+1620 1500
+1621 1250
+1622 1750
+node-link-information:
+from: 1618 to: 1616 bw: 1500.0
+from: 1619 to: 1618 bw: 1500.0
+The life time is:--- 100
+This is  virtual network-----273
+1623 1500
+1624 1000
+1625 2250
+1626 2250
+1627 1750
+1628 1250
+1629 500
+1630 1250
+node-link-information:
+from: 1626 to: 1625 bw: 500.0
+from: 1628 to: 1625 bw: 1000.0
+from: 1628 to: 1626 bw: 2000.0
+from: 1628 to: 1627 bw: 500.0
+from: 1629 to: 1625 bw: 1500.0
+from: 1630 to: 1625 bw: 500.0
+The life time is:--- 350
+This is  virtual network-----274
+1631 2250
+1632 1750
+1633 1250
+1634 1000
+node-link-information:
+from: 1633 to: 1631 bw: 1500.0
+from: 1634 to: 1633 bw: 1000.0
+The life time is:--- 100
+This is  virtual network-----275
+1635 250
+1636 2500
+1637 2000
+1638 500
+node-link-information:
+from: 1636 to: 1635 bw: 2000.0
+from: 1637 to: 1636 bw: 1000.0
+The life time is:--- 450
+This is  virtual network-----276
+1639 1000
+1640 500
+1641 1250
+1642 1750
+1643 2500
+1644 750
+1645 750
+1646 1250
+node-link-information:
+from: 1642 to: 1640 bw: 500.0
+from: 1642 to: 1641 bw: 1000.0
+from: 1643 to: 1639 bw: 2000.0
+from: 1643 to: 1642 bw: 1500.0
+from: 1644 to: 1643 bw: 1000.0
+from: 1645 to: 1642 bw: 1000.0
+from: 1645 to: 1644 bw: 1000.0
+from: 1646 to: 1645 bw: 2500.0
+The life time is:--- 150
+This is  virtual network-----277
+1647 1250
+1648 750
+1649 500
+1650 750
+1651 1750
+node-link-information:
+from: 1649 to: 1647 bw: 2000.0
+from: 1651 to: 1649 bw: 500.0
+The life time is:--- 350
+This is  virtual network-----278
+1652 1000
+1653 1500
+1654 2500
+1655 250
+node-link-information:
+from: 1654 to: 1653 bw: 1000.0
+The life time is:--- 300
+This is  virtual network-----279
+1656 2250
+1657 2500
+1658 2000
+1659 1000
+1660 1750
+1661 250
+1662 2000
+node-link-information:
+from: 1660 to: 1659 bw: 1500.0
+from: 1661 to: 1658 bw: 1000.0
+from: 1662 to: 1657 bw: 2000.0
+from: 1662 to: 1660 bw: 1500.0
+The life time is:--- 350
+This is  virtual network-----280
+1663 2500
+1664 1500
+1665 250
+1666 250
+node-link-information:
+from: 1666 to: 1664 bw: 500.0
+The life time is:--- 350
+This is  virtual network-----281
+1667 750
+1668 1000
+1669 1750
+1670 750
+1671 2250
+1672 250
+1673 500
+node-link-information:
+from: 1672 to: 1670 bw: 2000.0
+from: 1672 to: 1671 bw: 1000.0
+from: 1673 to: 1669 bw: 1500.0
+from: 1673 to: 1670 bw: 500.0
+The life time is:--- 100
+This is  virtual network-----282
+1674 750
+1675 2500
+1676 1000
+1677 250
+node-link-information:
+from: 1676 to: 1675 bw: 2500.0
+from: 1677 to: 1676 bw: 2000.0
+The life time is:--- 250
+This is  virtual network-----283
+1678 2250
+1679 1750
+1680 1000
+1681 1750
+1682 500
+1683 750
+node-link-information:
+from: 1681 to: 1680 bw: 1500.0
+from: 1682 to: 1679 bw: 2500.0
+from: 1682 to: 1681 bw: 1500.0
+from: 1683 to: 1678 bw: 2500.0
+from: 1683 to: 1680 bw: 1000.0
+The life time is:--- 200
+This is  virtual network-----284
+1684 1750
+1685 1000
+1686 2250
+1687 1250
+1688 500
+node-link-information:
+from: 1685 to: 1684 bw: 500.0
+from: 1688 to: 1687 bw: 1000.0
+The life time is:--- 150
+This is  virtual network-----285
+1689 1250
+1690 2250
+1691 1000
+1692 250
+node-link-information:
+The life time is:--- 400
+This is  virtual network-----286
+1693 2000
+1694 1250
+1695 750
+1696 500
+1697 2000
+1698 2000
+1699 1000
+1700 2000
+node-link-information:
+from: 1694 to: 1693 bw: 1000.0
+from: 1695 to: 1694 bw: 1500.0
+from: 1698 to: 1693 bw: 500.0
+from: 1699 to: 1693 bw: 500.0
+from: 1699 to: 1696 bw: 1000.0
+from: 1700 to: 1694 bw: 500.0
+from: 1700 to: 1696 bw: 1000.0
+from: 1700 to: 1698 bw: 500.0
+from: 1700 to: 1699 bw: 500.0
+The life time is:--- 250
+This is  virtual network-----287
+1701 1750
+1702 1500
+1703 2000
+1704 1000
+1705 1500
+node-link-information:
+from: 1704 to: 1701 bw: 1000.0
+from: 1704 to: 1702 bw: 1000.0
+The life time is:--- 400
+This is  virtual network-----288
+1706 1250
+1707 2000
+1708 750
+1709 1250
+1710 2250
+node-link-information:
+from: 1707 to: 1706 bw: 1000.0
+from: 1708 to: 1707 bw: 1500.0
+from: 1710 to: 1706 bw: 1000.0
+from: 1710 to: 1708 bw: 500.0
+The life time is:--- 100
+This is  virtual network-----289
+1711 750
+1712 1500
+1713 1000
+1714 1750
+1715 1500
+1716 1500
+1717 1250
+1718 1500
+node-link-information:
+from: 1713 to: 1712 bw: 2000.0
+from: 1715 to: 1712 bw: 1500.0
+from: 1716 to: 1712 bw: 2000.0
+from: 1716 to: 1714 bw: 1500.0
+from: 1717 to: 1711 bw: 2500.0
+from: 1717 to: 1715 bw: 1000.0
+from: 1718 to: 1716 bw: 2500.0
+The life time is:--- 250
+This is  virtual network-----290
+1719 2250
+1720 2500
+1721 250
+1722 1250
+1723 1250
+node-link-information:
+from: 1720 to: 1719 bw: 2500.0
+The life time is:--- 150
+This is  virtual network-----291
+1724 2250
+1725 2500
+1726 250
+1727 1500
+1728 2250
+1729 2250
+1730 2500
+1731 1750
+node-link-information:
+from: 1727 to: 1726 bw: 500.0
+from: 1729 to: 1726 bw: 1500.0
+from: 1731 to: 1728 bw: 2000.0
+The life time is:--- 400
+This is  virtual network-----292
+1732 2000
+1733 750
+1734 2250
+1735 2250
+1736 1000
+1737 2250
+node-link-information:
+from: 1736 to: 1732 bw: 1500.0
+from: 1736 to: 1734 bw: 1000.0
+from: 1737 to: 1736 bw: 2500.0
+The life time is:--- 400
+This is  virtual network-----293
+1738 2500
+1739 2500
+1740 1000
+1741 1000
+node-link-information:
+The life time is:--- 450
+This is  virtual network-----294
+1742 1500
+1743 500
+1744 1750
+1745 2250
+node-link-information:
+from: 1745 to: 1744 bw: 1000.0
+The life time is:--- 300
+This is  virtual network-----295
+1746 2000
+1747 1250
+1748 250
+1749 1750
+1750 2250
+1751 750
+node-link-information:
+The life time is:--- 350
+This is  virtual network-----296
+1752 500
+1753 1750
+1754 500
+1755 2250
+1756 500
+1757 2250
+1758 500
+node-link-information:
+from: 1756 to: 1753 bw: 1000.0
+from: 1756 to: 1754 bw: 2500.0
+from: 1757 to: 1752 bw: 1000.0
+from: 1758 to: 1755 bw: 2000.0
+from: 1758 to: 1756 bw: 500.0
+The life time is:--- 400
+This is  virtual network-----297
+1759 1250
+1760 500
+1761 250
+1762 1250
+1763 2250
+node-link-information:
+from: 1761 to: 1759 bw: 2500.0
+from: 1763 to: 1759 bw: 1000.0
+The life time is:--- 400
+This is  virtual network-----298
+1764 500
+1765 2000
+1766 1250
+1767 2000
+node-link-information:
+The life time is:--- 450
+This is  virtual network-----299
+1768 250
+1769 1000
+1770 750
+1771 1500
+1772 2250
+1773 2000
+node-link-information:
+from: 1770 to: 1768 bw: 2000.0
+from: 1771 to: 1769 bw: 1500.0
+from: 1772 to: 1768 bw: 1500.0
+from: 1772 to: 1771 bw: 1000.0
+The life time is:--- 200
+This is  virtual network-----300
+1774 1750
+1775 1500
+1776 1750
+1777 1250
+1778 1000
+1779 500
+1780 2500
+1781 1000
+node-link-information:
+from: 1776 to: 1774 bw: 500.0
+from: 1779 to: 1774 bw: 2000.0
+from: 1779 to: 1777 bw: 500.0
+from: 1779 to: 1778 bw: 1000.0
+from: 1781 to: 1774 bw: 1500.0
+from: 1781 to: 1776 bw: 2000.0
+The life time is:--- 100
+This is  virtual network-----301
+1782 1250
+1783 750
+1784 750
+1785 1750
+1786 1000
+1787 1000
+1788 250
+node-link-information:
+from: 1785 to: 1783 bw: 2000.0
+from: 1786 to: 1783 bw: 500.0
+from: 1787 to: 1782 bw: 2500.0
+from: 1787 to: 1784 bw: 1500.0
+from: 1787 to: 1786 bw: 500.0
+from: 1788 to: 1784 bw: 1000.0
+The life time is:--- 350
+This is  virtual network-----302
+1789 1500
+1790 1750
+1791 2500
+1792 1000
+1793 1000
+1794 500
+node-link-information:
+from: 1791 to: 1789 bw: 1500.0
+from: 1792 to: 1789 bw: 1000.0
+from: 1794 to: 1789 bw: 2500.0
+The life time is:--- 450
+This is  virtual network-----303
+1795 1000
+1796 1750
+1797 2250
+1798 2000
+1799 500
+1800 2250
+1801 1000
+node-link-information:
+from: 1796 to: 1795 bw: 1000.0
+from: 1799 to: 1795 bw: 1500.0
+from: 1799 to: 1797 bw: 1500.0
+from: 1800 to: 1799 bw: 1000.0
+The life time is:--- 300
+This is  virtual network-----304
+1802 1500
+1803 1000
+1804 1750
+1805 1250
+1806 2250
+1807 500
+1808 2000
+node-link-information:
+from: 1805 to: 1802 bw: 2000.0
+from: 1806 to: 1802 bw: 2000.0
+from: 1806 to: 1803 bw: 2500.0
+from: 1807 to: 1802 bw: 2500.0
+from: 1807 to: 1806 bw: 2500.0
+from: 1808 to: 1806 bw: 2500.0
+The life time is:--- 450
+This is  virtual network-----305
+1809 1750
+1810 2500
+1811 2250
+1812 250
+node-link-information:
+from: 1811 to: 1809 bw: 1000.0
+from: 1811 to: 1810 bw: 2000.0
+from: 1812 to: 1810 bw: 2000.0
+The life time is:--- 300
+This is  virtual network-----306
+1813 500
+1814 1250
+1815 1000
+1816 2500
+1817 500
+node-link-information:
+from: 1815 to: 1814 bw: 1500.0
+from: 1817 to: 1815 bw: 500.0
+The life time is:--- 250
+This is  virtual network-----307
+1818 2000
+1819 750
+1820 2500
+1821 1500
+1822 750
+1823 500
+1824 500
+node-link-information:
+from: 1820 to: 1818 bw: 500.0
+from: 1823 to: 1820 bw: 2000.0
+from: 1823 to: 1821 bw: 1500.0
+from: 1824 to: 1823 bw: 2000.0
+The life time is:--- 200
+This is  virtual network-----308
+1825 1250
+1826 250
+1827 1750
+1828 2000
+1829 250
+1830 1000
+1831 500
+node-link-information:
+from: 1827 to: 1825 bw: 1500.0
+from: 1830 to: 1827 bw: 2500.0
+from: 1830 to: 1828 bw: 2500.0
+from: 1831 to: 1825 bw: 1500.0
+The life time is:--- 400
+This is  virtual network-----309
+1832 1000
+1833 1500
+1834 500
+1835 1000
+1836 1500
+1837 750
+1838 1250
+1839 1750
+node-link-information:
+from: 1835 to: 1834 bw: 1000.0
+from: 1836 to: 1833 bw: 2500.0
+from: 1837 to: 1834 bw: 1500.0
+from: 1838 to: 1832 bw: 1000.0
+from: 1838 to: 1833 bw: 1500.0
+from: 1838 to: 1835 bw: 500.0
+from: 1839 to: 1833 bw: 1500.0
+from: 1839 to: 1834 bw: 2500.0
+The life time is:--- 350
+This is  virtual network-----310
+1840 2250
+1841 1750
+1842 2500
+1843 1500
+1844 1500
+1845 500
+1846 1500
+1847 500
+node-link-information:
+from: 1843 to: 1840 bw: 500.0
+from: 1845 to: 1840 bw: 1500.0
+from: 1845 to: 1842 bw: 1000.0
+from: 1845 to: 1844 bw: 500.0
+from: 1846 to: 1843 bw: 1500.0
+The life time is:--- 300
+This is  virtual network-----311
+1848 2250
+1849 1000
+1850 2500
+1851 2500
+node-link-information:
+from: 1851 to: 1848 bw: 500.0
+The life time is:--- 450
+This is  virtual network-----312
+1852 500
+1853 750
+1854 2500
+1855 1750
+1856 1500
+1857 1500
+1858 2000
+1859 750
+node-link-information:
+from: 1854 to: 1852 bw: 2500.0
+from: 1854 to: 1853 bw: 1000.0
+from: 1855 to: 1852 bw: 2000.0
+from: 1856 to: 1852 bw: 2000.0
+from: 1857 to: 1852 bw: 1000.0
+from: 1857 to: 1854 bw: 2000.0
+from: 1858 to: 1854 bw: 2000.0
+The life time is:--- 250
+This is  virtual network-----313
+1860 1750
+1861 750
+1862 500
+1863 1000
+1864 1000
+1865 1250
+1866 2250
+1867 1500
+node-link-information:
+from: 1862 to: 1860 bw: 1000.0
+from: 1864 to: 1860 bw: 500.0
+from: 1864 to: 1863 bw: 1000.0
+from: 1866 to: 1861 bw: 1000.0
+from: 1866 to: 1863 bw: 2000.0
+from: 1867 to: 1865 bw: 1000.0
+from: 1867 to: 1866 bw: 1000.0
+The life time is:--- 300
+This is  virtual network-----314
+1868 2000
+1869 2000
+1870 1000
+1871 750
+1872 2250
+1873 1500
+1874 2500
+node-link-information:
+from: 1870 to: 1869 bw: 2000.0
+from: 1871 to: 1868 bw: 1000.0
+from: 1873 to: 1870 bw: 2500.0
+from: 1873 to: 1871 bw: 1500.0
+from: 1874 to: 1868 bw: 1000.0
+The life time is:--- 150
+This is  virtual network-----315
+1875 250
+1876 1750
+1877 500
+1878 750
+node-link-information:
+from: 1877 to: 1876 bw: 2500.0
+The life time is:--- 50
+This is  virtual network-----316
+1879 1000
+1880 1000
+1881 1000
+1882 500
+1883 1500
+1884 750
+1885 2000
+1886 250
+node-link-information:
+from: 1881 to: 1879 bw: 500.0
+from: 1883 to: 1880 bw: 2000.0
+from: 1884 to: 1883 bw: 1000.0
+from: 1885 to: 1882 bw: 1500.0
+The life time is:--- 250
+This is  virtual network-----317
+1887 1500
+1888 1000
+1889 2500
+1890 500
+1891 1250
+1892 500
+1893 2250
+1894 1750
+node-link-information:
+from: 1890 to: 1887 bw: 2000.0
+from: 1891 to: 1888 bw: 2000.0
+from: 1891 to: 1890 bw: 1500.0
+from: 1892 to: 1887 bw: 2000.0
+from: 1892 to: 1889 bw: 1500.0
+from: 1892 to: 1890 bw: 2500.0
+from: 1892 to: 1891 bw: 1500.0
+from: 1893 to: 1888 bw: 1000.0
+from: 1894 to: 1887 bw: 500.0
+from: 1894 to: 1890 bw: 1000.0
+The life time is:--- 250
+This is  virtual network-----318
+1895 250
+1896 1250
+1897 1250
+1898 2500
+1899 1500
+1900 1500
+node-link-information:
+from: 1896 to: 1895 bw: 500.0
+from: 1898 to: 1895 bw: 1000.0
+from: 1899 to: 1895 bw: 1500.0
+from: 1899 to: 1896 bw: 500.0
+from: 1899 to: 1898 bw: 1500.0
+from: 1900 to: 1897 bw: 2000.0
+The life time is:--- 50
+This is  virtual network-----319
+1901 1250
+1902 1250
+1903 2500
+1904 500
+1905 2500
+1906 1500
+1907 250
+node-link-information:
+from: 1903 to: 1901 bw: 2000.0
+from: 1903 to: 1902 bw: 2500.0
+from: 1907 to: 1902 bw: 500.0
+The life time is:--- 250
+This is  virtual network-----320
+1908 500
+1909 2000
+1910 500
+1911 1750
+1912 1500
+1913 250
+1914 250
+node-link-information:
+from: 1909 to: 1908 bw: 2000.0
+from: 1911 to: 1908 bw: 2500.0
+from: 1912 to: 1908 bw: 500.0
+from: 1913 to: 1908 bw: 1500.0
+from: 1913 to: 1909 bw: 2000.0
+from: 1913 to: 1912 bw: 1000.0
+from: 1914 to: 1908 bw: 1500.0
+from: 1914 to: 1913 bw: 1500.0
+The life time is:--- 100
+This is  virtual network-----321
+1915 2250
+1916 2500
+1917 250
+1918 1500
+1919 1500
+1920 2250
+node-link-information:
+from: 1920 to: 1919 bw: 2000.0
+The life time is:--- 50
+This is  virtual network-----322
+1921 2500
+1922 2000
+1923 2500
+1924 250
+1925 1250
+1926 1750
+node-link-information:
+from: 1924 to: 1921 bw: 2500.0
+from: 1926 to: 1922 bw: 1000.0
+from: 1926 to: 1924 bw: 2500.0
+The life time is:--- 350
+This is  virtual network-----323
+1927 1000
+1928 1250
+1929 2250
+1930 2250
+1931 2250
+1932 1250
+1933 1500
+1934 2500
+node-link-information:
+from: 1929 to: 1928 bw: 1000.0
+from: 1930 to: 1927 bw: 1500.0
+from: 1931 to: 1927 bw: 2000.0
+from: 1932 to: 1928 bw: 2500.0
+from: 1932 to: 1930 bw: 1500.0
+from: 1933 to: 1931 bw: 2000.0
+from: 1933 to: 1932 bw: 1000.0
+from: 1934 to: 1927 bw: 2500.0
+The life time is:--- 150
+This is  virtual network-----324
+1935 2500
+1936 2500
+1937 500
+1938 1250
+1939 1000
+1940 2000
+1941 2250
+1942 250
+node-link-information:
+from: 1936 to: 1935 bw: 1000.0
+from: 1939 to: 1936 bw: 2500.0
+from: 1939 to: 1938 bw: 1000.0
+from: 1940 to: 1939 bw: 2500.0
+from: 1941 to: 1936 bw: 1000.0
+from: 1942 to: 1936 bw: 1500.0
+from: 1942 to: 1939 bw: 2000.0
+The life time is:--- 300
+This is  virtual network-----325
+1943 1000
+1944 1250
+1945 1250
+1946 750
+1947 2500
+1948 1000
+1949 2000
+1950 1250
+node-link-information:
+from: 1946 to: 1943 bw: 1000.0
+from: 1948 to: 1947 bw: 2500.0
+from: 1949 to: 1943 bw: 2500.0
+from: 1949 to: 1946 bw: 500.0
+from: 1950 to: 1943 bw: 500.0
+from: 1950 to: 1946 bw: 2000.0
+The life time is:--- 450
+This is  virtual network-----326
+1951 1500
+1952 750
+1953 1500
+1954 2250
+1955 1500
+1956 1250
+1957 1500
+1958 2000
+node-link-information:
+from: 1952 to: 1951 bw: 500.0
+from: 1954 to: 1952 bw: 1000.0
+from: 1954 to: 1953 bw: 2000.0
+from: 1955 to: 1951 bw: 2500.0
+from: 1956 to: 1951 bw: 1000.0
+from: 1958 to: 1952 bw: 2500.0
+The life time is:--- 150
+This is  virtual network-----327
+1959 2250
+1960 2250
+1961 1500
+1962 2250
+1963 250
+1964 2000
+1965 1750
+node-link-information:
+from: 1964 to: 1959 bw: 1000.0
+from: 1964 to: 1961 bw: 500.0
+from: 1964 to: 1963 bw: 1500.0
+from: 1965 to: 1959 bw: 2500.0
+from: 1965 to: 1961 bw: 500.0
+The life time is:--- 500
+This is  virtual network-----328
+1966 1500
+1967 1750
+1968 2000
+1969 2000
+node-link-information:
+from: 1969 to: 1966 bw: 2500.0
+The life time is:--- 250
+This is  virtual network-----329
+1970 2000
+1971 2500
+1972 1500
+1973 1750
+1974 750
+1975 250
+1976 2250
+node-link-information:
+from: 1974 to: 1970 bw: 1500.0
+from: 1975 to: 1974 bw: 1500.0
+from: 1976 to: 1972 bw: 2000.0
+The life time is:--- 200
+This is  virtual network-----330
+1977 750
+1978 1500
+1979 500
+1980 1750
+1981 500
+1982 1500
+node-link-information:
+from: 1979 to: 1978 bw: 1000.0
+from: 1980 to: 1977 bw: 1500.0
+from: 1981 to: 1978 bw: 500.0
+from: 1981 to: 1979 bw: 2000.0
+from: 1981 to: 1980 bw: 2500.0
+from: 1982 to: 1980 bw: 2500.0
+from: 1982 to: 1981 bw: 1500.0
+The life time is:--- 500
+This is  virtual network-----331
+1983 1750
+1984 750
+1985 1500
+1986 1500
+1987 1750
+1988 1000
+1989 750
+1990 1250
+node-link-information:
+from: 1985 to: 1984 bw: 1500.0
+from: 1986 to: 1984 bw: 2000.0
+from: 1987 to: 1986 bw: 2000.0
+from: 1988 to: 1985 bw: 2500.0
+from: 1989 to: 1985 bw: 1000.0
+from: 1989 to: 1987 bw: 500.0
+from: 1989 to: 1988 bw: 2000.0
+The life time is:--- 350
+This is  virtual network-----332
+1991 1500
+1992 250
+1993 1750
+1994 2500
+node-link-information:
+The life time is:--- 200
+This is  virtual network-----333
+1995 1000
+1996 1000
+1997 750
+1998 250
+1999 1500
+2000 1000
+node-link-information:
+from: 1999 to: 1996 bw: 500.0
+from: 1999 to: 1997 bw: 1000.0
+from: 2000 to: 1996 bw: 1000.0
+from: 2000 to: 1998 bw: 1000.0
+The life time is:--- 100
+This is  virtual network-----334
+2001 2000
+2002 1500
+2003 2250
+2004 1750
+node-link-information:
+The life time is:--- 50
+This is  virtual network-----335
+2005 500
+2006 1500
+2007 1500
+2008 2250
+2009 250
+2010 1750
+2011 750
+node-link-information:
+from: 2006 to: 2005 bw: 2500.0
+from: 2009 to: 2005 bw: 2500.0
+from: 2010 to: 2005 bw: 1500.0
+from: 2011 to: 2009 bw: 2000.0
+The life time is:--- 50
+This is  virtual network-----336
+2012 750
+2013 2500
+2014 250
+2015 1000
+node-link-information:
+from: 2014 to: 2013 bw: 2000.0
+from: 2015 to: 2013 bw: 1500.0
+The life time is:--- 250
+This is  virtual network-----337
+2016 2500
+2017 1750
+2018 2250
+2019 500
+2020 2000
+2021 2000
+node-link-information:
+from: 2017 to: 2016 bw: 1000.0
+from: 2018 to: 2017 bw: 500.0
+from: 2020 to: 2018 bw: 2500.0
+The life time is:--- 300
+This is  virtual network-----338
+2022 2000
+2023 1500
+2024 1250
+2025 2500
+2026 2000
+2027 2250
+2028 250
+2029 1750
+node-link-information:
+from: 2024 to: 2022 bw: 2500.0
+from: 2025 to: 2023 bw: 1000.0
+from: 2026 to: 2022 bw: 1000.0
+from: 2026 to: 2024 bw: 1000.0
+from: 2026 to: 2025 bw: 2000.0
+from: 2027 to: 2026 bw: 2000.0
+from: 2028 to: 2022 bw: 1500.0
+from: 2029 to: 2023 bw: 1500.0
+The life time is:--- 150
+This is  virtual network-----339
+2030 250
+2031 1250
+2032 1500
+2033 750
+2034 2250
+node-link-information:
+from: 2031 to: 2030 bw: 2500.0
+from: 2032 to: 2030 bw: 1500.0
+from: 2033 to: 2031 bw: 1000.0
+The life time is:--- 100
+This is  virtual network-----340
+2035 1750
+2036 1500
+2037 1250
+2038 1250
+2039 2500
+2040 2250
+2041 2250
+node-link-information:
+from: 2036 to: 2035 bw: 2500.0
+from: 2038 to: 2036 bw: 2000.0
+from: 2039 to: 2036 bw: 2000.0
+from: 2039 to: 2037 bw: 2500.0
+from: 2040 to: 2036 bw: 2000.0
+from: 2040 to: 2037 bw: 500.0
+from: 2041 to: 2038 bw: 500.0
+The life time is:--- 150
+This is  virtual network-----341
+2042 1250
+2043 2250
+2044 750
+2045 2500
+2046 1500
+2047 2000
+2048 500
+2049 2500
+node-link-information:
+from: 2047 to: 2042 bw: 1000.0
+from: 2047 to: 2044 bw: 2500.0
+from: 2049 to: 2045 bw: 2500.0
+from: 2049 to: 2046 bw: 2500.0
+The life time is:--- 350
+This is  virtual network-----342
+2050 2000
+2051 2500
+2052 2250
+2053 1250
+node-link-information:
+from: 2052 to: 2051 bw: 2500.0
+The life time is:--- 150
+This is  virtual network-----343
+2054 1500
+2055 250
+2056 250
+2057 250
+node-link-information:
+from: 2056 to: 2054 bw: 2000.0
+from: 2057 to: 2056 bw: 2500.0
+The life time is:--- 400
+This is  virtual network-----344
+2058 750
+2059 1500
+2060 2000
+2061 750
+2062 2250
+2063 2500
+node-link-information:
+from: 2060 to: 2059 bw: 1000.0
+from: 2063 to: 2059 bw: 1000.0
+from: 2063 to: 2060 bw: 2500.0
+The life time is:--- 250
+This is  virtual network-----345
+2064 500
+2065 750
+2066 1500
+2067 2000
+2068 250
+2069 1750
+2070 1000
+2071 250
+node-link-information:
+from: 2066 to: 2065 bw: 500.0
+from: 2070 to: 2066 bw: 2500.0
+from: 2070 to: 2068 bw: 500.0
+from: 2071 to: 2065 bw: 1000.0
+from: 2071 to: 2067 bw: 2500.0
+The life time is:--- 300
+This is  virtual network-----346
+2072 250
+2073 1000
+2074 1000
+2075 1750
+2076 1000
+2077 2000
+node-link-information:
+from: 2075 to: 2073 bw: 500.0
+from: 2075 to: 2074 bw: 1500.0
+from: 2076 to: 2073 bw: 2000.0
+from: 2076 to: 2075 bw: 2000.0
+The life time is:--- 500
+This is  virtual network-----347
+2078 2500
+2079 1250
+2080 2250
+2081 2500
+2082 750
+node-link-information:
+from: 2079 to: 2078 bw: 1500.0
+from: 2081 to: 2080 bw: 500.0
+from: 2082 to: 2080 bw: 2500.0
+The life time is:--- 450
+This is  virtual network-----348
+2083 1000
+2084 750
+2085 1000
+2086 2500
+2087 250
+node-link-information:
+from: 2085 to: 2084 bw: 1500.0
+from: 2086 to: 2083 bw: 2000.0
+from: 2086 to: 2085 bw: 1500.0
+from: 2087 to: 2085 bw: 1000.0
+from: 2087 to: 2086 bw: 1000.0
+The life time is:--- 300
+This is  virtual network-----349
+2088 1750
+2089 750
+2090 2250
+2091 2500
+2092 2500
+2093 750
+2094 2250
+node-link-information:
+from: 2093 to: 2090 bw: 2500.0
+The life time is:--- 150
+This is  virtual network-----350
+2095 1750
+2096 2000
+2097 1750
+2098 1250
+2099 250
+node-link-information:
+from: 2097 to: 2095 bw: 1500.0
+from: 2099 to: 2098 bw: 2500.0
+The life time is:--- 50
+This is  virtual network-----351
+2100 2500
+2101 1500
+2102 2250
+2103 1250
+2104 1250
+2105 250
+node-link-information:
+from: 2105 to: 2100 bw: 2000.0
+The life time is:--- 50
+This is  virtual network-----352
+2106 1000
+2107 1000
+2108 2000
+2109 2250
+node-link-information:
+from: 2108 to: 2107 bw: 1500.0
+The life time is:--- 450
+This is  virtual network-----353
+2110 1750
+2111 1000
+2112 250
+2113 1000
+2114 500
+2115 2250
+node-link-information:
+from: 2111 to: 2110 bw: 500.0
+from: 2114 to: 2113 bw: 1000.0
+from: 2115 to: 2111 bw: 1000.0
+from: 2115 to: 2113 bw: 1500.0
+The life time is:--- 300
+This is  virtual network-----354
+2116 1500
+2117 1750
+2118 1750
+2119 2250
+node-link-information:
+from: 2118 to: 2117 bw: 500.0
+The life time is:--- 200
+This is  virtual network-----355
+2120 750
+2121 500
+2122 2500
+2123 2500
+node-link-information:
+from: 2122 to: 2121 bw: 1000.0
+from: 2123 to: 2120 bw: 2000.0
+The life time is:--- 250
+This is  virtual network-----356
+2124 1000
+2125 750
+2126 2000
+2127 500
+node-link-information:
+The life time is:--- 150
+This is  virtual network-----357
+2128 1500
+2129 250
+2130 500
+2131 1750
+node-link-information:
+The life time is:--- 400
+This is  virtual network-----358
+2132 1250
+2133 2500
+2134 1250
+2135 2500
+node-link-information:
+from: 2134 to: 2133 bw: 500.0
+from: 2135 to: 2132 bw: 500.0
+The life time is:--- 500
+This is  virtual network-----359
+2136 2250
+2137 2000
+2138 1250
+2139 2500
+2140 2000
+2141 1000
+2142 2500
+node-link-information:
+from: 2140 to: 2136 bw: 2500.0
+from: 2141 to: 2136 bw: 1000.0
+from: 2141 to: 2137 bw: 2500.0
+from: 2142 to: 2138 bw: 1500.0
+from: 2142 to: 2141 bw: 1500.0
+The life time is:--- 400
+This is  virtual network-----360
+2143 1750
+2144 750
+2145 1250
+2146 250
+2147 250
+2148 2000
+node-link-information:
+from: 2144 to: 2143 bw: 1500.0
+from: 2148 to: 2145 bw: 500.0
+The life time is:--- 400
+This is  virtual network-----361
+2149 1250
+2150 1000
+2151 2000
+2152 250
+2153 1250
+node-link-information:
+from: 2151 to: 2150 bw: 1000.0
+from: 2152 to: 2151 bw: 2500.0
+from: 2153 to: 2151 bw: 2500.0
+The life time is:--- 500
+This is  virtual network-----362
+2154 1750
+2155 250
+2156 1500
+2157 1750
+2158 1500
+2159 2250
+node-link-information:
+from: 2157 to: 2156 bw: 1500.0
+from: 2158 to: 2156 bw: 500.0
+from: 2159 to: 2157 bw: 1000.0
+from: 2159 to: 2158 bw: 500.0
+The life time is:--- 350
+This is  virtual network-----363
+2160 500
+2161 2250
+2162 250
+2163 500
+2164 1750
+2165 1000
+node-link-information:
+from: 2161 to: 2160 bw: 1500.0
+The life time is:--- 100
+This is  virtual network-----364
+2166 500
+2167 1250
+2168 2000
+2169 1000
+2170 2500
+2171 1500
+2172 2000
+node-link-information:
+from: 2172 to: 2170 bw: 500.0
+The life time is:--- 500
+This is  virtual network-----365
+2173 1250
+2174 1500
+2175 2500
+2176 2250
+node-link-information:
+from: 2174 to: 2173 bw: 2000.0
+from: 2175 to: 2174 bw: 500.0
+The life time is:--- 50
+This is  virtual network-----366
+2177 250
+2178 1500
+2179 1500
+2180 1500
+node-link-information:
+from: 2180 to: 2178 bw: 1000.0
+from: 2180 to: 2179 bw: 1000.0
+The life time is:--- 250
+This is  virtual network-----367
+2181 750
+2182 750
+2183 1250
+2184 250
+2185 1500
+2186 2000
+2187 250
+2188 1250
+node-link-information:
+from: 2185 to: 2183 bw: 500.0
+from: 2185 to: 2184 bw: 2500.0
+from: 2187 to: 2182 bw: 500.0
+The life time is:--- 250
+This is  virtual network-----368
+2189 2250
+2190 250
+2191 1000
+2192 1500
+2193 1000
+2194 500
+node-link-information:
+from: 2192 to: 2189 bw: 2500.0
+from: 2193 to: 2192 bw: 1500.0
+from: 2194 to: 2190 bw: 2500.0
+The life time is:--- 250
+This is  virtual network-----369
+2195 1750
+2196 1500
+2197 2250
+2198 1250
+2199 250
+2200 2250
+2201 250
+node-link-information:
+from: 2200 to: 2195 bw: 2500.0
+The life time is:--- 100
+This is  virtual network-----370
+2202 1500
+2203 1750
+2204 750
+2205 500
+2206 1500
+2207 500
+2208 2500
+2209 1500
+node-link-information:
+from: 2204 to: 2203 bw: 2000.0
+from: 2206 to: 2203 bw: 500.0
+from: 2208 to: 2204 bw: 1500.0
+from: 2208 to: 2206 bw: 1000.0
+from: 2209 to: 2203 bw: 1000.0
+from: 2209 to: 2204 bw: 500.0
+from: 2209 to: 2207 bw: 2000.0
+The life time is:--- 200
+This is  virtual network-----371
+2210 1500
+2211 500
+2212 1500
+2213 250
+2214 2500
+2215 2500
+2216 1500
+2217 1000
+node-link-information:
+from: 2211 to: 2210 bw: 500.0
+from: 2212 to: 2210 bw: 1000.0
+from: 2213 to: 2212 bw: 2000.0
+from: 2215 to: 2211 bw: 1000.0
+from: 2215 to: 2213 bw: 2500.0
+from: 2216 to: 2210 bw: 2000.0
+from: 2217 to: 2216 bw: 500.0
+The life time is:--- 100
+This is  virtual network-----372
+2218 1000
+2219 2500
+2220 1500
+2221 2000
+2222 2250
+2223 250
+2224 2500
+2225 250
+node-link-information:
+from: 2222 to: 2219 bw: 1000.0
+from: 2222 to: 2221 bw: 2500.0
+from: 2223 to: 2222 bw: 500.0
+The life time is:--- 50
+This is  virtual network-----373
+2226 750
+2227 750
+2228 1500
+2229 500
+node-link-information:
+from: 2228 to: 2227 bw: 1500.0
+from: 2229 to: 2228 bw: 1000.0
+The life time is:--- 450
+This is  virtual network-----374
+2230 1250
+2231 1750
+2232 500
+2233 2250
+2234 2000
+2235 2000
+2236 2500
+2237 1750
+node-link-information:
+from: 2236 to: 2230 bw: 2000.0
+from: 2236 to: 2233 bw: 1500.0
+from: 2236 to: 2234 bw: 500.0
+from: 2237 to: 2230 bw: 1000.0
+The life time is:--- 250
+This is  virtual network-----375
+2238 1750
+2239 2250
+2240 1250
+2241 750
+2242 2000
+node-link-information:
+The life time is:--- 250
+This is  virtual network-----376
+2243 1250
+2244 1000
+2245 500
+2246 750
+2247 2000
+node-link-information:
+from: 2245 to: 2243 bw: 2000.0
+from: 2246 to: 2243 bw: 500.0
+from: 2246 to: 2244 bw: 500.0
+from: 2246 to: 2245 bw: 2000.0
+from: 2247 to: 2246 bw: 2000.0
+The life time is:--- 350
+This is  virtual network-----377
+2248 1000
+2249 250
+2250 500
+2251 750
+2252 1500
+2253 2500
+node-link-information:
+from: 2250 to: 2248 bw: 1500.0
+The life time is:--- 500
+This is  virtual network-----378
+2254 1500
+2255 1250
+2256 2250
+2257 2250
+2258 250
+2259 2000
+2260 750
+node-link-information:
+The life time is:--- 150
+This is  virtual network-----379
+2261 2500
+2262 250
+2263 1750
+2264 2500
+2265 1750
+2266 500
+2267 1500
+node-link-information:
+from: 2263 to: 2261 bw: 2000.0
+from: 2263 to: 2262 bw: 500.0
+from: 2265 to: 2263 bw: 2000.0
+from: 2267 to: 2264 bw: 1000.0
+The life time is:--- 50
+This is  virtual network-----380
+2268 1500
+2269 1250
+2270 1500
+2271 1750
+2272 2000
+2273 1250
+node-link-information:
+from: 2270 to: 2268 bw: 2000.0
+from: 2271 to: 2268 bw: 1000.0
+from: 2271 to: 2270 bw: 1000.0
+from: 2273 to: 2268 bw: 1500.0
+The life time is:--- 250
+This is  virtual network-----381
+2274 2250
+2275 2250
+2276 250
+2277 250
+node-link-information:
+from: 2276 to: 2275 bw: 2500.0
+The life time is:--- 400
+This is  virtual network-----382
+2278 2500
+2279 1250
+2280 1750
+2281 1250
+2282 1250
+2283 750
+node-link-information:
+The life time is:--- 250
+This is  virtual network-----383
+2284 2250
+2285 2000
+2286 250
+2287 250
+2288 750
+2289 1250
+2290 1500
+node-link-information:
+from: 2286 to: 2284 bw: 2000.0
+from: 2288 to: 2285 bw: 1500.0
+from: 2290 to: 2286 bw: 1000.0
+The life time is:--- 450
+This is  virtual network-----384
+2291 1250
+2292 1000
+2293 2250
+2294 1500
+2295 750
+node-link-information:
+from: 2294 to: 2293 bw: 1500.0
+from: 2295 to: 2291 bw: 2000.0
+from: 2295 to: 2292 bw: 2000.0
+The life time is:--- 100
+This is  virtual network-----385
+2296 1500
+2297 2250
+2298 1250
+2299 2000
+node-link-information:
+The life time is:--- 400
+This is  virtual network-----386
+2300 1000
+2301 2000
+2302 1000
+2303 500
+2304 2000
+node-link-information:
+from: 2302 to: 2301 bw: 1000.0
+The life time is:--- 50
+This is  virtual network-----387
+2305 1000
+2306 1500
+2307 2250
+2308 2250
+2309 2250
+2310 750
+node-link-information:
+from: 2306 to: 2305 bw: 1500.0
+from: 2309 to: 2305 bw: 500.0
+from: 2309 to: 2306 bw: 2000.0
+from: 2310 to: 2306 bw: 500.0
+The life time is:--- 100
+This is  virtual network-----388
+2311 2000
+2312 250
+2313 1750
+2314 1250
+2315 1250
+2316 250
+node-link-information:
+from: 2315 to: 2313 bw: 2000.0
+from: 2316 to: 2311 bw: 1500.0
+from: 2316 to: 2312 bw: 2500.0
+The life time is:--- 150
+This is  virtual network-----389
+2317 2500
+2318 750
+2319 500
+2320 750
+node-link-information:
+from: 2319 to: 2318 bw: 2000.0
+The life time is:--- 150
+This is  virtual network-----390
+2321 500
+2322 2250
+2323 1000
+2324 2500
+2325 250
+2326 2250
+2327 1250
+node-link-information:
+from: 2323 to: 2322 bw: 1000.0
+from: 2324 to: 2322 bw: 2500.0
+from: 2325 to: 2323 bw: 500.0
+from: 2325 to: 2324 bw: 2500.0
+from: 2327 to: 2326 bw: 1500.0
+The life time is:--- 250
+This is  virtual network-----391
+2328 250
+2329 500
+2330 1250
+2331 1250
+2332 250
+2333 1250
+2334 1000
+2335 2000
+node-link-information:
+from: 2331 to: 2329 bw: 500.0
+from: 2331 to: 2330 bw: 2000.0
+from: 2332 to: 2329 bw: 2500.0
+from: 2333 to: 2332 bw: 2000.0
+from: 2334 to: 2330 bw: 2500.0
+from: 2334 to: 2332 bw: 500.0
+from: 2335 to: 2329 bw: 500.0
+from: 2335 to: 2331 bw: 2500.0
+from: 2335 to: 2334 bw: 2500.0
+The life time is:--- 300
+This is  virtual network-----392
+2336 1000
+2337 1500
+2338 2000
+2339 750
+2340 1250
+node-link-information:
+from: 2338 to: 2336 bw: 1000.0
+from: 2340 to: 2338 bw: 500.0
+The life time is:--- 300
+This is  virtual network-----393
+2341 500
+2342 500
+2343 1250
+2344 1500
+2345 250
+2346 1750
+2347 1500
+node-link-information:
+from: 2346 to: 2342 bw: 2500.0
+from: 2347 to: 2343 bw: 2500.0
+The life time is:--- 500
+This is  virtual network-----394
+2348 2500
+2349 2000
+2350 2250
+2351 2250
+2352 500
+node-link-information:
+from: 2352 to: 2350 bw: 2500.0
+The life time is:--- 500
+This is  virtual network-----395
+2353 1250
+2354 1250
+2355 750
+2356 2000
+2357 500
+2358 2000
+node-link-information:
+from: 2358 to: 2354 bw: 2500.0
+The life time is:--- 100
+This is  virtual network-----396
+2359 250
+2360 1500
+2361 2250
+2362 750
+2363 2000
+2364 2000
+2365 1250
+2366 1750
+node-link-information:
+from: 2361 to: 2359 bw: 500.0
+from: 2364 to: 2359 bw: 500.0
+from: 2365 to: 2360 bw: 1500.0
+from: 2365 to: 2364 bw: 1500.0
+The life time is:--- 300
+This is  virtual network-----397
+2367 1750
+2368 1000
+2369 1250
+2370 2500
+2371 750
+2372 250
+2373 1250
+2374 2250
+node-link-information:
+from: 2369 to: 2367 bw: 1500.0
+from: 2372 to: 2368 bw: 1000.0
+from: 2373 to: 2368 bw: 500.0
+from: 2373 to: 2370 bw: 1500.0
+from: 2373 to: 2371 bw: 2000.0
+from: 2374 to: 2369 bw: 2500.0
+The life time is:--- 50
+This is  virtual network-----398
+2375 250
+2376 1500
+2377 1750
+2378 2500
+node-link-information:
+from: 2376 to: 2375 bw: 2500.0
+from: 2377 to: 2376 bw: 2000.0
+The life time is:--- 300
+This is  virtual network-----399
+2379 1750
+2380 1250
+2381 750
+2382 1250
+2383 750
+node-link-information:
+from: 2382 to: 2380 bw: 1000.0
+from: 2382 to: 2381 bw: 2000.0
+from: 2383 to: 2379 bw: 1500.0
+from: 2383 to: 2380 bw: 500.0
+from: 2383 to: 2382 bw: 1500.0
+The life time is:--- 100
+This is  virtual network-----400
+2384 500
+2385 1500
+2386 2250
+2387 1750
+2388 1500
+2389 1750
+2390 2000
+2391 1000
+node-link-information:
+from: 2386 to: 2384 bw: 1500.0
+from: 2386 to: 2385 bw: 2500.0
+from: 2388 to: 2384 bw: 1500.0
+from: 2388 to: 2386 bw: 500.0
+from: 2389 to: 2385 bw: 1500.0
+The life time is:--- 150
+This is  virtual network-----401
+2392 1500
+2393 1750
+2394 1250
+2395 1750
+node-link-information:
+from: 2395 to: 2392 bw: 2500.0
+The life time is:--- 250
+This is  virtual network-----402
+2396 2250
+2397 1750
+2398 750
+2399 750
+2400 500
+node-link-information:
+from: 2399 to: 2398 bw: 2500.0
+The life time is:--- 200
+This is  virtual network-----403
+2401 1250
+2402 2250
+2403 500
+2404 2250
+2405 500
+2406 1500
+node-link-information:
+from: 2404 to: 2402 bw: 500.0
+The life time is:--- 150
+This is  virtual network-----404
+2407 750
+2408 500
+2409 1750
+2410 250
+node-link-information:
+from: 2410 to: 2407 bw: 2000.0
+The life time is:--- 500
+This is  virtual network-----405
+2411 250
+2412 500
+2413 500
+2414 2000
+2415 2000
+node-link-information:
+from: 2413 to: 2411 bw: 1000.0
+from: 2413 to: 2412 bw: 1500.0
+from: 2414 to: 2412 bw: 500.0
+from: 2414 to: 2413 bw: 1000.0
+The life time is:--- 250
+This is  virtual network-----406
+2416 2500
+2417 1000
+2418 1000
+2419 1250
+2420 750
+2421 2000
+2422 1750
+node-link-information:
+from: 2418 to: 2417 bw: 2500.0
+from: 2420 to: 2419 bw: 1500.0
+from: 2421 to: 2416 bw: 500.0
+from: 2421 to: 2418 bw: 500.0
+from: 2421 to: 2419 bw: 2500.0
+from: 2422 to: 2418 bw: 500.0
+from: 2422 to: 2420 bw: 2000.0
+The life time is:--- 300
+This is  virtual network-----407
+2423 2500
+2424 1500
+2425 250
+2426 2000
+2427 2000
+2428 500
+2429 1250
+2430 250
+node-link-information:
+from: 2426 to: 2424 bw: 1000.0
+from: 2428 to: 2426 bw: 1500.0
+from: 2428 to: 2427 bw: 1500.0
+from: 2429 to: 2424 bw: 1000.0
+from: 2429 to: 2426 bw: 500.0
+from: 2429 to: 2427 bw: 1500.0
+from: 2430 to: 2423 bw: 2500.0
+from: 2430 to: 2427 bw: 500.0
+from: 2430 to: 2428 bw: 1000.0
+from: 2430 to: 2429 bw: 2500.0
+The life time is:--- 150
+This is  virtual network-----408
+2431 1750
+2432 1000
+2433 2250
+2434 2500
+2435 1000
+2436 2500
+2437 2250
+2438 500
+node-link-information:
+from: 2434 to: 2433 bw: 2500.0
+from: 2435 to: 2431 bw: 500.0
+from: 2436 to: 2432 bw: 500.0
+from: 2437 to: 2432 bw: 2000.0
+The life time is:--- 400
+This is  virtual network-----409
+2439 500
+2440 2250
+2441 1000
+2442 2250
+2443 2000
+2444 2000
+2445 1750
+2446 750
+node-link-information:
+from: 2443 to: 2442 bw: 2500.0
+from: 2445 to: 2439 bw: 1500.0
+from: 2445 to: 2440 bw: 2000.0
+from: 2445 to: 2441 bw: 1000.0
+from: 2445 to: 2444 bw: 2000.0
+from: 2446 to: 2439 bw: 2000.0
+The life time is:--- 400
+This is  virtual network-----410
+2447 1250
+2448 2000
+2449 2250
+2450 500
+2451 750
+node-link-information:
+The life time is:--- 100
+This is  virtual network-----411
+2452 2250
+2453 2000
+2454 500
+2455 1750
+2456 2500
+2457 2500
+2458 500
+node-link-information:
+from: 2456 to: 2452 bw: 2500.0
+from: 2458 to: 2452 bw: 1000.0
+The life time is:--- 50
+This is  virtual network-----412
+2459 750
+2460 2500
+2461 2250
+2462 250
+2463 2250
+2464 750
+2465 2000
+node-link-information:
+from: 2461 to: 2460 bw: 500.0
+from: 2462 to: 2461 bw: 500.0
+from: 2464 to: 2460 bw: 2500.0
+from: 2465 to: 2461 bw: 1500.0
+The life time is:--- 400
+This is  virtual network-----413
+2466 750
+2467 1750
+2468 2500
+2469 1500
+2470 2500
+2471 2000
+2472 2250
+2473 2250
+node-link-information:
+from: 2467 to: 2466 bw: 1500.0
+from: 2470 to: 2466 bw: 2500.0
+from: 2471 to: 2469 bw: 1000.0
+from: 2472 to: 2468 bw: 1000.0
+from: 2473 to: 2468 bw: 1500.0
+from: 2473 to: 2471 bw: 2500.0
+The life time is:--- 150
+This is  virtual network-----414
+2474 250
+2475 1000
+2476 750
+2477 2250
+2478 750
+2479 1500
+node-link-information:
+from: 2476 to: 2474 bw: 500.0
+from: 2479 to: 2478 bw: 500.0
+The life time is:--- 500
+This is  virtual network-----415
+2480 2250
+2481 2500
+2482 500
+2483 2500
+2484 1000
+node-link-information:
+from: 2481 to: 2480 bw: 1000.0
+from: 2483 to: 2481 bw: 2000.0
+from: 2484 to: 2482 bw: 1500.0
+The life time is:--- 200
+This is  virtual network-----416
+2485 1750
+2486 2250
+2487 2250
+2488 750
+2489 500
+2490 250
+node-link-information:
+from: 2488 to: 2485 bw: 500.0
+from: 2488 to: 2486 bw: 1000.0
+from: 2489 to: 2485 bw: 2500.0
+The life time is:--- 50
+This is  virtual network-----417
+2491 1750
+2492 1500
+2493 250
+2494 1250
+2495 1250
+2496 750
+2497 2000
+node-link-information:
+from: 2493 to: 2492 bw: 2000.0
+from: 2495 to: 2492 bw: 2000.0
+from: 2495 to: 2494 bw: 500.0
+from: 2496 to: 2491 bw: 2500.0
+from: 2497 to: 2492 bw: 1000.0
+from: 2497 to: 2494 bw: 500.0
+The life time is:--- 100
+This is  virtual network-----418
+2498 2000
+2499 1000
+2500 750
+2501 1000
+node-link-information:
+from: 2499 to: 2498 bw: 2000.0
+from: 2500 to: 2499 bw: 1500.0
+The life time is:--- 250
+This is  virtual network-----419
+2502 1750
+2503 500
+2504 1750
+2505 2000
+2506 750
+2507 250
+node-link-information:
+The life time is:--- 350
+This is  virtual network-----420
+2508 1000
+2509 500
+2510 2000
+2511 2000
+2512 1500
+2513 2500
+2514 750
+2515 250
+node-link-information:
+from: 2510 to: 2509 bw: 1000.0
+from: 2511 to: 2508 bw: 2500.0
+from: 2513 to: 2509 bw: 2000.0
+from: 2514 to: 2508 bw: 2500.0
+from: 2515 to: 2514 bw: 1500.0
+The life time is:--- 300
+This is  virtual network-----421
+2516 500
+2517 1250
+2518 500
+2519 1000
+2520 1750
+2521 750
+2522 2500
+node-link-information:
+from: 2519 to: 2517 bw: 2500.0
+from: 2519 to: 2518 bw: 1500.0
+from: 2520 to: 2516 bw: 2500.0
+from: 2520 to: 2519 bw: 500.0
+from: 2521 to: 2516 bw: 1500.0
+from: 2522 to: 2516 bw: 1500.0
+from: 2522 to: 2518 bw: 1000.0
+from: 2522 to: 2521 bw: 500.0
+The life time is:--- 250
+This is  virtual network-----422
+2523 750
+2524 2250
+2525 2250
+2526 250
+2527 1000
+2528 1750
+2529 1750
+node-link-information:
+from: 2526 to: 2524 bw: 1500.0
+from: 2528 to: 2527 bw: 2000.0
+from: 2529 to: 2523 bw: 2000.0
+from: 2529 to: 2527 bw: 500.0
+The life time is:--- 50
+This is  virtual network-----423
+2530 250
+2531 1000
+2532 1750
+2533 1500
+2534 750
+2535 750
+2536 750
+node-link-information:
+from: 2534 to: 2530 bw: 2000.0
+from: 2536 to: 2531 bw: 1000.0
+from: 2536 to: 2532 bw: 2000.0
+from: 2536 to: 2534 bw: 500.0
+The life time is:--- 100
+This is  virtual network-----424
+2537 1750
+2538 1000
+2539 2250
+2540 750
+2541 500
+2542 2500
+2543 1000
+node-link-information:
+from: 2539 to: 2537 bw: 2000.0
+from: 2540 to: 2537 bw: 2000.0
+from: 2541 to: 2539 bw: 1500.0
+from: 2542 to: 2537 bw: 1000.0
+from: 2542 to: 2538 bw: 1000.0
+The life time is:--- 300
+This is  virtual network-----425
+2544 2500
+2545 750
+2546 1500
+2547 1250
+2548 2000
+node-link-information:
+from: 2547 to: 2546 bw: 2500.0
+from: 2548 to: 2544 bw: 500.0
+from: 2548 to: 2546 bw: 2000.0
+The life time is:--- 100
+This is  virtual network-----426
+2549 2000
+2550 500
+2551 2500
+2552 1000
+node-link-information:
+from: 2551 to: 2549 bw: 500.0
+The life time is:--- 400
+This is  virtual network-----427
+2553 2500
+2554 750
+2555 1000
+2556 1500
+2557 750
+node-link-information:
+from: 2557 to: 2556 bw: 2000.0
+The life time is:--- 200
+This is  virtual network-----428
+2558 500
+2559 2250
+2560 2000
+2561 1250
+2562 2000
+2563 1750
+2564 2000
+node-link-information:
+from: 2560 to: 2559 bw: 2500.0
+from: 2563 to: 2558 bw: 2500.0
+from: 2564 to: 2562 bw: 500.0
+The life time is:--- 50
+This is  virtual network-----429
+2565 2000
+2566 1500
+2567 1250
+2568 2250
+2569 250
+2570 1500
+2571 1500
+node-link-information:
+from: 2568 to: 2565 bw: 2500.0
+from: 2570 to: 2566 bw: 2000.0
+from: 2571 to: 2565 bw: 1000.0
+from: 2571 to: 2566 bw: 2000.0
+from: 2571 to: 2567 bw: 1500.0
+The life time is:--- 250
+This is  virtual network-----430
+2572 1250
+2573 1000
+2574 500
+2575 250
+2576 1500
+2577 750
+2578 250
+2579 1500
+node-link-information:
+from: 2573 to: 2572 bw: 1000.0
+from: 2577 to: 2572 bw: 1500.0
+from: 2577 to: 2575 bw: 1500.0
+from: 2578 to: 2576 bw: 1000.0
+from: 2579 to: 2574 bw: 2000.0
+The life time is:--- 350
+This is  virtual network-----431
+2580 1750
+2581 2250
+2582 1000
+2583 1750
+node-link-information:
+from: 2583 to: 2582 bw: 1000.0
+The life time is:--- 250
+This is  virtual network-----432
+2584 1750
+2585 1000
+2586 1000
+2587 1000
+2588 1250
+node-link-information:
+from: 2588 to: 2587 bw: 500.0
+The life time is:--- 300
+This is  virtual network-----433
+2589 1000
+2590 1750
+2591 1500
+2592 250
+2593 250
+node-link-information:
+The life time is:--- 450
+This is  virtual network-----434
+2594 750
+2595 2500
+2596 1250
+2597 1250
+2598 1250
+2599 2500
+2600 750
+2601 2500
+node-link-information:
+from: 2595 to: 2594 bw: 500.0
+from: 2599 to: 2595 bw: 2000.0
+from: 2601 to: 2594 bw: 500.0
+from: 2601 to: 2596 bw: 2500.0
+from: 2601 to: 2600 bw: 1000.0
+The life time is:--- 250
+This is  virtual network-----435
+2602 500
+2603 750
+2604 1000
+2605 2250
+2606 1000
+2607 2250
+2608 250
+node-link-information:
+from: 2605 to: 2603 bw: 1500.0
+from: 2607 to: 2604 bw: 2000.0
+The life time is:--- 350
+This is  virtual network-----436
+2609 2250
+2610 500
+2611 2250
+2612 2000
+2613 1000
+2614 1000
+2615 2250
+node-link-information:
+from: 2611 to: 2609 bw: 500.0
+from: 2612 to: 2610 bw: 1500.0
+The life time is:--- 450
+This is  virtual network-----437
+2616 2000
+2617 500
+2618 1000
+2619 500
+2620 1250
+2621 2500
+node-link-information:
+from: 2620 to: 2617 bw: 2000.0
+from: 2620 to: 2618 bw: 2500.0
+The life time is:--- 300
+This is  virtual network-----438
+2622 750
+2623 1750
+2624 2250
+2625 1750
+2626 2250
+node-link-information:
+from: 2623 to: 2622 bw: 2500.0
+from: 2624 to: 2622 bw: 1000.0
+from: 2624 to: 2623 bw: 500.0
+from: 2625 to: 2624 bw: 2500.0
+The life time is:--- 300
+This is  virtual network-----439
+2627 1250
+2628 1250
+2629 750
+2630 500
+2631 1750
+node-link-information:
+from: 2629 to: 2628 bw: 2000.0
+from: 2631 to: 2630 bw: 1000.0
+The life time is:--- 50
+This is  virtual network-----440
+2632 1750
+2633 2250
+2634 2250
+2635 1000
+2636 2500
+2637 1750
+2638 1750
+2639 750
+node-link-information:
+from: 2634 to: 2632 bw: 500.0
+from: 2636 to: 2635 bw: 1500.0
+from: 2637 to: 2632 bw: 500.0
+from: 2639 to: 2633 bw: 2500.0
+from: 2639 to: 2634 bw: 1500.0
+from: 2639 to: 2636 bw: 500.0
+The life time is:--- 450
+This is  virtual network-----441
+2640 1750
+2641 1000
+2642 1000
+2643 250
+2644 1250
+node-link-information:
+from: 2643 to: 2642 bw: 2500.0
+from: 2644 to: 2640 bw: 1000.0
+from: 2644 to: 2641 bw: 500.0
+The life time is:--- 500
+This is  virtual network-----442
+2645 2500
+2646 1750
+2647 1750
+2648 2250
+2649 1250
+node-link-information:
+from: 2648 to: 2646 bw: 1500.0
+from: 2649 to: 2645 bw: 2000.0
+from: 2649 to: 2646 bw: 2500.0
+from: 2649 to: 2648 bw: 1000.0
+The life time is:--- 300
+This is  virtual network-----443
+2650 250
+2651 2500
+2652 2000
+2653 250
+2654 250
+node-link-information:
+The life time is:--- 200
+This is  virtual network-----444
+2655 2250
+2656 1750
+2657 2500
+2658 500
+2659 2500
+2660 2500
+node-link-information:
+from: 2657 to: 2655 bw: 2500.0
+from: 2659 to: 2656 bw: 2000.0
+from: 2659 to: 2657 bw: 2000.0
+The life time is:--- 500
+This is  virtual network-----445
+2661 2000
+2662 2250
+2663 750
+2664 2500
+2665 750
+2666 1000
+2667 250
+node-link-information:
+from: 2662 to: 2661 bw: 1500.0
+from: 2664 to: 2661 bw: 500.0
+from: 2664 to: 2662 bw: 2500.0
+from: 2665 to: 2661 bw: 2000.0
+from: 2665 to: 2663 bw: 2000.0
+from: 2667 to: 2665 bw: 1500.0
+The life time is:--- 350
+This is  virtual network-----446
+2668 2000
+2669 1000
+2670 750
+2671 1500
+node-link-information:
+The life time is:--- 50
+This is  virtual network-----447
+2672 750
+2673 2000
+2674 250
+2675 250
+2676 2000
+2677 1750
+2678 500
+2679 750
+node-link-information:
+from: 2677 to: 2672 bw: 1500.0
+from: 2678 to: 2675 bw: 2000.0
+from: 2679 to: 2672 bw: 2500.0
+from: 2679 to: 2675 bw: 1500.0
+from: 2679 to: 2676 bw: 1000.0
+The life time is:--- 400
+This is  virtual network-----448
+2680 250
+2681 2000
+2682 1000
+2683 1250
+2684 1000
+2685 750
+node-link-information:
+from: 2684 to: 2681 bw: 500.0
+from: 2684 to: 2682 bw: 2000.0
+from: 2684 to: 2683 bw: 2500.0
+from: 2685 to: 2681 bw: 2500.0
+from: 2685 to: 2683 bw: 2500.0
+The life time is:--- 450
+This is  virtual network-----449
+2686 1500
+2687 2500
+2688 1000
+2689 1750
+node-link-information:
+from: 2688 to: 2686 bw: 500.0
+The life time is:--- 350
+This is  virtual network-----450
+2690 2250
+2691 750
+2692 1750
+2693 1000
+2694 2000
+node-link-information:
+from: 2692 to: 2691 bw: 500.0
+The life time is:--- 50
+This is  virtual network-----451
+2695 1750
+2696 2500
+2697 250
+2698 2500
+2699 2500
+2700 250
+node-link-information:
+from: 2700 to: 2699 bw: 500.0
+The life time is:--- 250
+This is  virtual network-----452
+2701 2000
+2702 1500
+2703 1000
+2704 2250
+2705 1500
+2706 1250
+node-link-information:
+from: 2702 to: 2701 bw: 500.0
+from: 2704 to: 2702 bw: 2000.0
+from: 2706 to: 2703 bw: 2500.0
+from: 2706 to: 2705 bw: 2000.0
+The life time is:--- 500
+This is  virtual network-----453
+2707 500
+2708 250
+2709 1000
+2710 2500
+node-link-information:
+from: 2709 to: 2708 bw: 2500.0
+The life time is:--- 50
+This is  virtual network-----454
+2711 750
+2712 1500
+2713 1000
+2714 500
+node-link-information:
+from: 2713 to: 2712 bw: 1000.0
+from: 2714 to: 2711 bw: 1000.0
+The life time is:--- 250
+This is  virtual network-----455
+2715 750
+2716 2250
+2717 1500
+2718 2500
+2719 750
+2720 500
+2721 250
+node-link-information:
+from: 2719 to: 2715 bw: 1500.0
+from: 2720 to: 2719 bw: 1000.0
+The life time is:--- 350
+This is  virtual network-----456
+2722 1000
+2723 250
+2724 2000
+2725 2000
+2726 1000
+node-link-information:
+The life time is:--- 500
+This is  virtual network-----457
+2727 1250
+2728 500
+2729 2500
+2730 250
+2731 250
+2732 2500
+2733 250
+node-link-information:
+from: 2730 to: 2727 bw: 1000.0
+from: 2732 to: 2727 bw: 2500.0
+from: 2732 to: 2728 bw: 500.0
+from: 2732 to: 2731 bw: 1500.0
+from: 2733 to: 2728 bw: 2000.0
+from: 2733 to: 2729 bw: 500.0
+from: 2733 to: 2731 bw: 1500.0
+The life time is:--- 300
+This is  virtual network-----458
+2734 1250
+2735 2500
+2736 2000
+2737 750
+2738 1000
+2739 750
+2740 2250
+node-link-information:
+from: 2738 to: 2736 bw: 1000.0
+The life time is:--- 300
+This is  virtual network-----459
+2741 1750
+2742 750
+2743 250
+2744 2250
+2745 2500
+node-link-information:
+The life time is:--- 100
+This is  virtual network-----460
+2746 750
+2747 1000
+2748 1500
+2749 500
+2750 1750
+2751 750
+2752 2500
+node-link-information:
+from: 2751 to: 2748 bw: 1000.0
+from: 2751 to: 2749 bw: 1000.0
+from: 2752 to: 2750 bw: 1500.0
+The life time is:--- 100
+This is  virtual network-----461
+2753 750
+2754 1750
+2755 250
+2756 1750
+node-link-information:
+from: 2756 to: 2755 bw: 2500.0
+The life time is:--- 100
+This is  virtual network-----462
+2757 250
+2758 2000
+2759 2000
+2760 250
+2761 250
+node-link-information:
+from: 2759 to: 2757 bw: 500.0
+from: 2760 to: 2758 bw: 500.0
+The life time is:--- 200
+This is  virtual network-----463
+2762 1250
+2763 2000
+2764 250
+2765 250
+2766 500
+2767 2000
+node-link-information:
+from: 2766 to: 2762 bw: 2000.0
+from: 2766 to: 2763 bw: 500.0
+from: 2766 to: 2764 bw: 500.0
+The life time is:--- 50
+This is  virtual network-----464
+2768 2500
+2769 1750
+2770 1500
+2771 2250
+2772 750
+node-link-information:
+from: 2771 to: 2769 bw: 2000.0
+from: 2771 to: 2770 bw: 2500.0
+The life time is:--- 350
+This is  virtual network-----465
+2773 250
+2774 1750
+2775 1750
+2776 500
+2777 1000
+2778 1500
+2779 2250
+2780 750
+node-link-information:
+from: 2780 to: 2777 bw: 1500.0
+The life time is:--- 50
+This is  virtual network-----466
+2781 2500
+2782 750
+2783 1000
+2784 1750
+2785 250
+2786 1000
+node-link-information:
+from: 2782 to: 2781 bw: 1500.0
+from: 2784 to: 2781 bw: 1000.0
+from: 2786 to: 2782 bw: 1500.0
+The life time is:--- 250
+This is  virtual network-----467
+2787 250
+2788 750
+2789 750
+2790 500
+2791 2500
+node-link-information:
+from: 2789 to: 2787 bw: 2000.0
+from: 2790 to: 2787 bw: 2000.0
+The life time is:--- 250
+This is  virtual network-----468
+2792 750
+2793 1500
+2794 2250
+2795 1750
+2796 1250
+2797 250
+2798 1000
+node-link-information:
+from: 2794 to: 2793 bw: 500.0
+from: 2796 to: 2793 bw: 1000.0
+from: 2797 to: 2793 bw: 500.0
+from: 2798 to: 2792 bw: 2500.0
+from: 2798 to: 2793 bw: 500.0
+from: 2798 to: 2795 bw: 2500.0
+from: 2798 to: 2796 bw: 500.0
+The life time is:--- 350
+This is  virtual network-----469
+2799 1000
+2800 2500
+2801 750
+2802 750
+2803 1250
+node-link-information:
+from: 2802 to: 2801 bw: 2500.0
+The life time is:--- 300
+This is  virtual network-----470
+2804 1250
+2805 750
+2806 1750
+2807 1000
+node-link-information:
+The life time is:--- 250
+This is  virtual network-----471
+2808 1000
+2809 750
+2810 2000
+2811 1000
+node-link-information:
+from: 2811 to: 2810 bw: 2500.0
+The life time is:--- 300
+This is  virtual network-----472
+2812 2500
+2813 750
+2814 1250
+2815 1750
+node-link-information:
+from: 2813 to: 2812 bw: 2000.0
+The life time is:--- 150
+This is  virtual network-----473
+2816 750
+2817 250
+2818 250
+2819 750
+node-link-information:
+from: 2818 to: 2816 bw: 2000.0
+from: 2819 to: 2816 bw: 2500.0
+from: 2819 to: 2817 bw: 2000.0
+The life time is:--- 50
+This is  virtual network-----474
+2820 1750
+2821 1000
+2822 250
+2823 1750
+2824 250
+2825 1750
+node-link-information:
+from: 2823 to: 2822 bw: 2000.0
+from: 2824 to: 2822 bw: 1500.0
+The life time is:--- 500
+This is  virtual network-----475
+2826 750
+2827 1500
+2828 250
+2829 750
+node-link-information:
+from: 2827 to: 2826 bw: 2000.0
+The life time is:--- 450
+This is  virtual network-----476
+2830 2000
+2831 1000
+2832 2250
+2833 2500
+node-link-information:
+The life time is:--- 100
+This is  virtual network-----477
+2834 500
+2835 750
+2836 250
+2837 500
+2838 500
+2839 1000
+node-link-information:
+from: 2836 to: 2834 bw: 500.0
+from: 2838 to: 2834 bw: 2000.0
+from: 2838 to: 2835 bw: 1000.0
+The life time is:--- 350
+This is  virtual network-----478
+2840 1750
+2841 1000
+2842 500
+2843 1250
+2844 1750
+node-link-information:
+from: 2842 to: 2840 bw: 1500.0
+from: 2843 to: 2842 bw: 500.0
+The life time is:--- 150
+This is  virtual network-----479
+2845 2000
+2846 2500
+2847 1750
+2848 750
+node-link-information:
+from: 2847 to: 2845 bw: 2000.0
+The life time is:--- 200
+This is  virtual network-----480
+2849 2000
+2850 2500
+2851 750
+2852 1000
+2853 500
+2854 2500
+2855 1000
+node-link-information:
+from: 2853 to: 2850 bw: 2500.0
+from: 2853 to: 2852 bw: 2000.0
+from: 2854 to: 2849 bw: 2000.0
+from: 2855 to: 2850 bw: 500.0
+from: 2855 to: 2854 bw: 1500.0
+The life time is:--- 200
+This is  virtual network-----481
+2856 2500
+2857 1750
+2858 1750
+2859 2250
+node-link-information:
+from: 2858 to: 2857 bw: 1000.0
+from: 2859 to: 2856 bw: 1500.0
+The life time is:--- 50
+This is  virtual network-----482
+2860 2500
+2861 2250
+2862 2250
+2863 1250
+2864 750
+2865 2000
+node-link-information:
+from: 2861 to: 2860 bw: 1500.0
+from: 2865 to: 2860 bw: 1500.0
+from: 2865 to: 2864 bw: 2000.0
+The life time is:--- 250
+This is  virtual network-----483
+2866 500
+2867 1500
+2868 1250
+2869 1750
+node-link-information:
+The life time is:--- 500
+This is  virtual network-----484
+2870 1750
+2871 2250
+2872 1000
+2873 1750
+2874 500
+node-link-information:
+from: 2873 to: 2870 bw: 2500.0
+from: 2874 to: 2872 bw: 2500.0
+The life time is:--- 150
+This is  virtual network-----485
+2875 750
+2876 1250
+2877 2000
+2878 1250
+node-link-information:
+from: 2877 to: 2875 bw: 1000.0
+from: 2878 to: 2875 bw: 1500.0
+The life time is:--- 50
+This is  virtual network-----486
+2879 500
+2880 2500
+2881 2000
+2882 750
+2883 2500
+node-link-information:
+The life time is:--- 200
+This is  virtual network-----487
+2884 2500
+2885 2000
+2886 1250
+2887 500
+2888 250
+node-link-information:
+from: 2886 to: 2884 bw: 1500.0
+from: 2887 to: 2885 bw: 2000.0
+The life time is:--- 300
+This is  virtual network-----488
+2889 2500
+2890 1500
+2891 2250
+2892 1500
+node-link-information:
+from: 2890 to: 2889 bw: 2000.0
+from: 2892 to: 2890 bw: 500.0
+from: 2892 to: 2891 bw: 2500.0
+The life time is:--- 350
+This is  virtual network-----489
+2893 2500
+2894 2250
+2895 2500
+2896 2000
+2897 1250
+2898 250
+2899 500
+node-link-information:
+from: 2894 to: 2893 bw: 2500.0
+from: 2896 to: 2895 bw: 2000.0
+from: 2898 to: 2893 bw: 500.0
+from: 2898 to: 2894 bw: 1500.0
+from: 2899 to: 2894 bw: 1500.0
+from: 2899 to: 2895 bw: 500.0
+from: 2899 to: 2896 bw: 500.0
+The life time is:--- 350
+This is  virtual network-----490
+2900 750
+2901 1750
+2902 1250
+2903 1250
+2904 750
+node-link-information:
+The life time is:--- 400
+This is  virtual network-----491
+2905 250
+2906 750
+2907 1750
+2908 500
+2909 2000
+node-link-information:
+The life time is:--- 450
+This is  virtual network-----492
+2910 750
+2911 2250
+2912 1000
+2913 1250
+2914 1500
+2915 1250
+2916 2250
+node-link-information:
+from: 2912 to: 2910 bw: 1000.0
+from: 2912 to: 2911 bw: 1500.0
+from: 2914 to: 2913 bw: 2500.0
+The life time is:--- 350
+This is  virtual network-----493
+2917 250
+2918 2000
+2919 1500
+2920 1500
+node-link-information:
+from: 2918 to: 2917 bw: 500.0
+from: 2919 to: 2917 bw: 500.0
+The life time is:--- 400
+This is  virtual network-----494
+2921 250
+2922 1750
+2923 2250
+2924 250
+2925 2250
+2926 2250
+2927 1000
+node-link-information:
+from: 2926 to: 2922 bw: 1000.0
+from: 2927 to: 2924 bw: 500.0
+from: 2927 to: 2926 bw: 500.0
+The life time is:--- 500
+This is  virtual network-----495
+2928 2000
+2929 2500
+2930 2000
+2931 2000
+2932 1750
+2933 2250
+node-link-information:
+from: 2933 to: 2929 bw: 1500.0
+from: 2933 to: 2932 bw: 2000.0
+The life time is:--- 450
+This is  virtual network-----496
+2934 500
+2935 2250
+2936 250
+2937 1500
+2938 250
+2939 1500
+2940 1750
+2941 2250
+node-link-information:
+from: 2938 to: 2935 bw: 1000.0
+from: 2940 to: 2937 bw: 500.0
+from: 2940 to: 2939 bw: 1000.0
+from: 2941 to: 2938 bw: 2000.0
+The life time is:--- 100
+This is  virtual network-----497
+2942 1000
+2943 2250
+2944 2500
+2945 1500
+2946 500
+node-link-information:
+from: 2944 to: 2942 bw: 2000.0
+from: 2945 to: 2942 bw: 500.0
+from: 2945 to: 2944 bw: 2500.0
+from: 2946 to: 2943 bw: 500.0
+from: 2946 to: 2944 bw: 2000.0
+The life time is:--- 500
+This is  virtual network-----498
+2947 1000
+2948 1500
+2949 500
+2950 2500
+2951 250
+2952 2250
+2953 2250
+node-link-information:
+from: 2948 to: 2947 bw: 2000.0
+from: 2952 to: 2948 bw: 2000.0
+The life time is:--- 500
+This is  virtual network-----499
+2954 750
+2955 1250
+2956 2500
+2957 2000
+2958 2500
+node-link-information:
+from: 2958 to: 2955 bw: 1500.0
+The life time is:--- 300

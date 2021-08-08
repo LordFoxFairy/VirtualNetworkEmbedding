@@ -1,0 +1,16 @@
+Looking in indexes: https://pypi.mirrors.ustc.edu.cn/simple
+Requirement already satisfied: astunparse in d:\programdata\anaconda3\envs\pytorch\lib\site-packages (1.6.3)
+Requirement already satisfied: cffi in d:\programdata\anaconda3\envs\pytorch\lib\site-packages (1.14.5)
+Requirement already satisfied: decorator in d:\programdata\anaconda3\envs\pytorch\lib\site-packages (4.4.2)
+Requirement already satisfied: protobuf in d:\programdata\anaconda3\envs\pytorch\lib\site-packages (3.15.5)
+Collecting numpy==1.17.5
+  Using cached https://mirrors.bfsu.edu.cn/pypi/web/packages/34/ac/2a68db01eee12bc66b86456d46ce1658e0acad24570d90fc1c48afd84c9b/numpy-1.17.5-cp37-cp37m-win_amd64.whl (12.7 MB)
+Requirement already satisfied: six<2.0,>=1.6.1 in c:\users\tia\appdata\roaming\python\python37\site-packages (from astunparse) (1.14.0)
+Requirement already satisfied: wheel<1.0,>=0.23.0 in d:\programdata\anaconda3\envs\pytorch\lib\site-packages (from astunparse) (0.36.2)
+Requirement already satisfied: pycparser in d:\programdata\anaconda3\envs\pytorch\lib\site-packages (from cffi) (2.20)
+Installing collected packages: numpy
+  Attempting uninstall: numpy
+    Found existing installation: numpy 1.19.2
+    Uninstalling numpy-1.19.2:
+      Successfully uninstalled numpy-1.19.2
+Successfully installed numpy-1.17.5
