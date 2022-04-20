@@ -1,5 +1,9 @@
 # 虚拟网络嵌入
 
+## 虚拟网络嵌入
+
+[虚拟网络嵌入简述地址](https://github.com/TheFoxFairy/StudyNotes/blob/main/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%AC%94%E8%AE%B0/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E9%A1%B9%E7%AC%94%E8%AE%B0/%E8%99%9A%E6%8B%9F%E7%BD%91%E7%BB%9C%E5%B5%8C%E5%85%A5.md)
+
 ## 文件功能描述
 
 * data_loader：用于数据导入以及预处理
